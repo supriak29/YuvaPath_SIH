@@ -1,0 +1,13 @@
+feature,status
+district,Currently available
+course_trade,Currently available
+training_provider,Currently available
+gender,Currently available
+age,Currently available
+attendance_percentage,Required enrichment
+assessment_score,Required enrichment
+skill_match,Required enrichment
+employment_status_at_followup,Required enrichment
+job_type,Required enrichment
+current_income,Required enrichment
+employer_feedback,Required enrichment

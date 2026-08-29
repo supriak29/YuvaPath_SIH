@@ -1,0 +1,20 @@
+{
+    "skill_demand_model": {
+        "model_file": "skill_demand_model.joblib",
+        "target": "estimated_openings_nearby",
+        "algorithm": "RandomForestRegressor",
+        "test_r2": 0.6638,
+        "test_mae": 7.3252,
+        "test_rmse": 8.8608
+    },
+    "career_recommendation": {
+        "engine_file": "career_recommendation_config.json",
+        "type": "rule_based_ranking",
+        "records": 398
+    },
+    "data_context": {
+        "plfs_source": "Maharashtra PLFS",
+        "ncs_source": "National Career Service",
+        "career_records": 4000
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "engine_type": "ranking",
+    "version": "1.0",
+    "components": {
+        "labour_market_demand": 0.5,
+        "trainee_readiness": 0.3,
+        "skill_gap": 0.2
+    },
+    "outputs": [
+        "recommended_career",
+        "recommendation_score",
+        "career_rank",
+        "combined_demand_score",
+        "avg_readiness_pct",
+        "avg_skill_gap_count"
+    ]
+}

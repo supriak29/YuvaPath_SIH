@@ -1,0 +1,16 @@
+district,desired_career,trainee_count,avg_openings,high_demand_count,medium_demand_count,low_demand_count,high_demand_pct,opening_score,demand_score,avg_readiness_pct,avg_skill_gap_count,priority_score,label
+Latur,Web Developer (Entry-level),13,41.61538461538461,13,0,0,100.0,0.7547600913937547,92.64,7.6923076923076925,3.6923076923076925,85.51,Latur - Web Developer (Entry-level)
+Kolhapur,Accounts Assistant,9,45.666666666666664,9,0,0,100.0,0.834983498349835,95.05,11.11111111111111,3.5555555555555554,84.49,Kolhapur - Accounts Assistant
+Nashik,Web Developer (Entry-level),10,47.7,10,0,0,100.0,0.8752475247524754,96.26,12.5,3.5,84.23,Nashik - Web Developer (Entry-level)
+Yavatmal,Web Developer (Entry-level),9,44.0,9,0,0,100.0,0.801980198019802,94.06,11.11111111111111,3.5555555555555554,83.61,Yavatmal - Web Developer (Entry-level)
+Nanded,Web Developer (Entry-level),13,42.38461538461539,13,0,0,100.0,0.76999238385377,93.1,11.538461538461538,3.5384615384615383,82.36,Nanded - Web Developer (Entry-level)
+Chhatrapati Sambhajinagar,Data Entry Operator,4,54.0,4,0,0,100.0,1.0,100.0,18.75,3.25,81.25,Chhatrapati Sambhajinagar - Data Entry Operator
+Chhatrapati Sambhajinagar,Web Developer (Entry-level),3,48.333333333333336,3,0,0,100.0,0.8877887788778879,96.63,16.666666666666668,3.3333333333333335,80.52,Chhatrapati Sambhajinagar - Web Developer (Entry-level)
+Ahmednagar,Mobile Repair Technician,20,42.15,20,0,0,100.0,0.7653465346534654,92.96,13.75,3.45,80.18,Ahmednagar - Mobile Repair Technician
+Jalgaon,Mobile Repair Technician,11,44.72727272727273,11,0,0,100.0,0.8163816381638164,94.49,15.909090909090908,3.3636363636363638,79.46,Jalgaon - Mobile Repair Technician
+Latur,Accounts Assistant,13,46.0,13,0,0,100.0,0.8415841584158416,95.25,17.307692307692307,3.3076923076923075,78.76,Latur - Accounts Assistant
+Thane,Web Developer (Entry-level),6,43.0,6,0,0,100.0,0.7821782178217822,93.47,16.666666666666668,3.3333333333333335,77.89,Thane - Web Developer (Entry-level)
+Yavatmal,Mobile Repair Technician,12,42.833333333333336,12,0,0,100.0,0.778877887788779,93.37,16.666666666666668,3.3333333333333335,77.81,Yavatmal - Mobile Repair Technician
+Akola,Data Entry Operator,9,42.666666666666664,9,0,0,100.0,0.7755775577557755,93.27,16.666666666666668,3.3333333333333335,77.72,Akola - Data Entry Operator
+Nagpur,Web Developer (Entry-level),12,42.083333333333336,12,0,0,100.0,0.7640264026402641,92.92,16.666666666666668,3.3333333333333335,77.43,Nagpur - Web Developer (Entry-level)
+Beed,Electrician,14,44.07142857142857,14,0,0,100.0,0.8033946251768034,94.1,17.857142857142858,3.2857142857142856,77.3,Beed - Electrician

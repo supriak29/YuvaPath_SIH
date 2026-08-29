@@ -1,0 +1,1582 @@
+district,career,skill,skill_gap_score
+Nanded,Electrician,Circuit testing,72.0
+Latur,Automobile Technician,Engine diagnostics,69.0
+Mumbai City,Electrician,Circuit testing,66.0
+Latur,Automobile Technician,Tool handling,66.0
+Latur,Automobile Technician,Safety protocols,63.0
+Mumbai City,Electrician,Tool handling,60.0
+Nanded,Electrician,Basic wiring,60.0
+Ahmednagar,Mobile Repair Technician,Steady hands,57.0
+Mumbai City,Electrician,Basic wiring,57.0
+Dhule,Electrician,Circuit testing,57.0
+Nanded,Mobile Repair Technician,Steady hands,57.0
+Yavatmal,Electrician,Circuit testing,57.0
+Ahmednagar,Accounts Assistant,Record keeping,54.0
+Ahmednagar,Accounts Assistant,Tally software,54.0
+Jalgaon,Automobile Technician,Engine diagnostics,54.0
+Sangli,Data Entry Operator,Attention to detail,54.0
+Ahmednagar,Mobile Repair Technician,Soldering,54.0
+Mumbai City,Electrician,Safety protocols,54.0
+Dhule,Electrician,Basic wiring,54.0
+Nanded,Electrician,Tool handling,54.0
+Ahmednagar,Electrician,Circuit testing,54.0
+Akola,Electrician,Basic wiring,54.0
+Nanded,Mobile Repair Technician,Component diagnosis,51.0
+Yavatmal,Electrician,Basic wiring,51.0
+Akola,Two-Wheeler Mechanic,Engine diagnostics,51.0
+Dhule,Electrician,Safety protocols,51.0
+Sangli,Mobile Repair Technician,Steady hands,51.0
+Nanded,Mobile Repair Technician,Soldering,51.0
+Akola,Web Developer (Entry-level),HTML/CSS basics,51.0
+Kolhapur,Data Entry Operator,Attention to detail,51.0
+Ahmednagar,Automobile Technician,Engine diagnostics,51.0
+Pune,Automobile Technician,Safety protocols,51.0
+Yavatmal,Automobile Technician,Tool handling,51.0
+Akola,Automobile Technician,Safety protocols,51.0
+Akola,Automobile Technician,Engine diagnostics,51.0
+Ahmednagar,Mobile Repair Technician,Component diagnosis,51.0
+Jalgaon,Automobile Technician,Problem solving,51.0
+Akola,Automobile Technician,Problem solving,51.0
+Sangli,Data Entry Operator,MS Excel,51.0
+Ahmednagar,Two-Wheeler Mechanic,Safety protocols,51.0
+Yavatmal,Automobile Technician,Problem solving,48.0
+Yavatmal,Electrician,Safety protocols,48.0
+Ahmednagar,Data Entry Operator,Attention to detail,48.0
+Ahmednagar,Data Entry Operator,MS Excel,48.0
+Jalgaon,Automobile Technician,Tool handling,48.0
+Ahmednagar,Accounts Assistant,Basic numeracy,48.0
+Nanded,Electrician,Safety protocols,48.0
+Thane,Automobile Technician,Engine diagnostics,48.0
+Dhule,Electrician,Tool handling,48.0
+Akola,Mobile Repair Technician,Soldering,48.0
+Latur,Automobile Technician,Problem solving,48.0
+Pune,Automobile Technician,Tool handling,48.0
+Nashik,Two-Wheeler Mechanic,Problem solving,48.0
+Amravati,Automobile Technician,Engine diagnostics,48.0
+Latur,Mobile Repair Technician,Steady hands,48.0
+Ahmednagar,Data Entry Operator,Basic computer literacy,45.0
+Sangli,Mobile Repair Technician,Soldering,45.0
+Amravati,Data Entry Operator,MS Excel,45.0
+Mumbai City,Automobile Technician,Safety protocols,45.0
+Ahmednagar,Electrician,Safety protocols,45.0
+Thane,Automobile Technician,Safety protocols,45.0
+Mumbai City,Automobile Technician,Engine diagnostics,45.0
+Latur,Data Entry Operator,Attention to detail,45.0
+Pune,Automobile Technician,Engine diagnostics,45.0
+Kolhapur,Data Entry Operator,Typing speed,45.0
+Mumbai City,Mobile Repair Technician,Soldering,45.0
+Ahmednagar,Mobile Repair Technician,Customer handling,45.0
+Mumbai Suburban,Web Developer (Entry-level),HTML/CSS basics,45.0
+Amravati,Accounts Assistant,Tally software,45.0
+Ahmednagar,Two-Wheeler Mechanic,Engine diagnostics,45.0
+Ahmednagar,Data Entry Operator,Typing speed,45.0
+Latur,Mobile Repair Technician,Soldering,45.0
+Akola,Accounts Assistant,Tally software,45.0
+Akola,Mobile Repair Technician,Steady hands,45.0
+Nanded,Mobile Repair Technician,Customer handling,45.0
+Solapur,CNC Machine Operator,Precision measurement,44.0
+Akola,Accounts Assistant,Record keeping,42.0
+Nanded,Automobile Technician,Engine diagnostics,42.0
+Akola,Automobile Technician,Tool handling,42.0
+Solapur,CNC Machine Operator,Blueprint reading,42.0
+Kolhapur,Mobile Repair Technician,Component diagnosis,42.0
+Solapur,Data Entry Operator,Attention to detail,42.0
+Kolhapur,Mobile Repair Technician,Steady hands,42.0
+Solapur,Data Entry Operator,MS Excel,42.0
+Satara,Data Entry Operator,MS Excel,42.0
+Yavatmal,Automobile Technician,Engine diagnostics,42.0
+Ahmednagar,Web Developer (Entry-level),HTML/CSS basics,42.0
+Jalgaon,Automobile Technician,Safety protocols,42.0
+Pune,Data Entry Operator,Attention to detail,42.0
+Ahmednagar,Customer Support Associate,English reading,42.0
+Mumbai City,Mobile Repair Technician,Component diagnosis,42.0
+Thane,Data Entry Operator,Attention to detail,42.0
+Sangli,Electrician,Tool handling,42.0
+Sangli,Customer Support Associate,Patience,42.0
+Nanded,Automobile Technician,Safety protocols,42.0
+Yavatmal,Electrician,Tool handling,42.0
+Kolhapur,Electrician,Basic wiring,42.0
+Mumbai City,Automobile Technician,Tool handling,42.0
+Nagpur,Automobile Technician,Problem solving,42.0
+Nagpur,Electrician,Basic wiring,42.0
+Jalgaon,Data Entry Operator,MS Excel,42.0
+Nashik,Two-Wheeler Mechanic,Engine diagnostics,42.0
+Ahmednagar,Automobile Technician,Tool handling,42.0
+Akola,Web Developer (Entry-level),Logical thinking,42.0
+Ahmednagar,Customer Support Associate,Basic computer literacy,42.0
+Amravati,Data Entry Operator,Basic computer literacy,42.0
+Ahmednagar,Customer Support Associate,Patience,42.0
+Mumbai City,Automobile Technician,Problem solving,42.0
+Akola,Two-Wheeler Mechanic,Tool handling,42.0
+Amravati,Data Entry Operator,Attention to detail,42.0
+Beed,Electrician,Circuit testing,42.0
+Satara,Automobile Technician,Engine diagnostics,42.0
+Jalgaon,Electrician,Circuit testing,39.0
+Solapur,Automobile Technician,Tool handling,39.0
+Latur,Electrician,Safety protocols,39.0
+Latur,Electrician,Circuit testing,39.0
+Kolhapur,Mobile Repair Technician,Customer handling,39.0
+Akola,Accounts Assistant,Basic numeracy,39.0
+Sangli,Data Entry Operator,Basic computer literacy,39.0
+Akola,Electrician,Safety protocols,39.0
+Chhatrapati Sambhajinagar,Mobile Repair Technician,Soldering,39.0
+Chhatrapati Sambhajinagar,Mobile Repair Technician,Steady hands,39.0
+Akola,Electrician,Tool handling,39.0
+Akola,Electrician,Circuit testing,39.0
+Sangli,Customer Support Associate,English reading,39.0
+Thane,Electrician,Basic wiring,39.0
+Latur,Two-Wheeler Mechanic,Engine diagnostics,39.0
+Mumbai Suburban,Electrician,Circuit testing,39.0
+Akola,Two-Wheeler Mechanic,Safety protocols,39.0
+Akola,Two-Wheeler Mechanic,Problem solving,39.0
+Akola,Mobile Repair Technician,Component diagnosis,39.0
+Latur,Mobile Repair Technician,Component diagnosis,39.0
+Amravati,Accounts Assistant,Basic numeracy,39.0
+Latur,Data Entry Operator,MS Excel,39.0
+Akola,Web Developer (Entry-level),English reading,39.0
+Amravati,Data Entry Operator,Typing speed,39.0
+Dhule,Data Entry Operator,Attention to detail,39.0
+Jalgaon,Data Entry Operator,Attention to detail,39.0
+Nanded,Data Entry Operator,MS Excel,39.0
+Pune,Mobile Repair Technician,Component diagnosis,39.0
+Mumbai Suburban,Web Developer (Entry-level),Logical thinking,39.0
+Kolhapur,Data Entry Operator,MS Excel,39.0
+Ahmednagar,Web Developer (Entry-level),Logical thinking,39.0
+Mumbai City,Mobile Repair Technician,Steady hands,39.0
+Akola,Accounts Assistant,Communication,39.0
+Ahmednagar,Web Developer (Entry-level),English reading,39.0
+Ahmednagar,Electrician,Basic wiring,39.0
+Amravati,Accounts Assistant,Record keeping,39.0
+Amravati,Accounts Assistant,Communication,39.0
+Latur,Two-Wheeler Mechanic,Problem solving,39.0
+Nanded,Web Developer (Entry-level),HTML/CSS basics,39.0
+Sangli,Electrician,Basic wiring,39.0
+Nanded,Web Developer (Entry-level),Basic computer literacy,39.0
+Nashik,Welder,Blueprint reading,38.0
+Amravati,Automobile Technician,Tool handling,36.0
+Jalgaon,Electrician,Basic wiring,36.0
+Beed,Automobile Technician,Problem solving,36.0
+Amravati,Automobile Technician,Safety protocols,36.0
+Beed,Two-Wheeler Mechanic,Engine diagnostics,36.0
+Yavatmal,Mobile Repair Technician,Customer handling,36.0
+Pune,Data Entry Operator,Typing speed,36.0
+Sangli,Electrician,Circuit testing,36.0
+Latur,Accounts Assistant,Tally software,36.0
+Ahmednagar,Accounts Assistant,Communication,36.0
+Nagpur,Data Entry Operator,MS Excel,36.0
+Kolhapur,Automobile Technician,Engine diagnostics,36.0
+Kolhapur,Mobile Repair Technician,Soldering,36.0
+Beed,Two-Wheeler Mechanic,Problem solving,36.0
+Beed,Electrician,Safety protocols,36.0
+Nashik,Accounts Assistant,Record keeping,36.0
+Mumbai Suburban,Accounts Assistant,Tally software,36.0
+Dhule,Automobile Technician,Safety protocols,36.0
+Solapur,Accounts Assistant,Tally software,36.0
+Latur,Accounts Assistant,Record keeping,36.0
+Ahmednagar,Customer Support Associate,Communication,36.0
+Satara,Data Entry Operator,Typing speed,36.0
+Ahmednagar,Two-Wheeler Mechanic,Problem solving,36.0
+Nanded,Automobile Technician,Tool handling,36.0
+Latur,Web Developer (Entry-level),HTML/CSS basics,36.0
+Latur,Web Developer (Entry-level),English reading,36.0
+Nashik,Customer Support Associate,Patience,36.0
+Nanded,Data Entry Operator,Basic computer literacy,36.0
+Nashik,Data Entry Operator,Attention to detail,36.0
+Ahmednagar,Two-Wheeler Mechanic,Tool handling,36.0
+Dhule,Customer Support Associate,Communication,36.0
+Dhule,Customer Support Associate,Basic computer literacy,36.0
+Nashik,Mobile Repair Technician,Customer handling,36.0
+Sangli,Electrician,Safety protocols,36.0
+Dhule,Customer Support Associate,Patience,36.0
+Thane,Electrician,Safety protocols,36.0
+Solapur,Automobile Technician,Engine diagnostics,36.0
+Nagpur,Web Developer (Entry-level),Logical thinking,36.0
+Latur,Web Developer (Entry-level),Logical thinking,36.0
+Latur,Web Developer (Entry-level),Basic computer literacy,36.0
+Jalgaon,Data Entry Operator,Typing speed,36.0
+Solapur,Mobile Repair Technician,Steady hands,36.0
+Solapur,Mobile Repair Technician,Component diagnosis,36.0
+Kolhapur,Electrician,Circuit testing,36.0
+Jalgaon,Data Entry Operator,Basic computer literacy,36.0
+Ahmednagar,Automobile Technician,Safety protocols,36.0
+Nashik,Welder,Welding technique,34.0
+Sangli,Data Entry Operator,Typing speed,33.0
+Latur,Electrician,Tool handling,33.0
+Nashik,Accounts Assistant,Basic numeracy,33.0
+Nashik,Accounts Assistant,Communication,33.0
+Beed,Electrician,Tool handling,33.0
+Thane,Mobile Repair Technician,Soldering,33.0
+Thane,Mobile Repair Technician,Component diagnosis,33.0
+Amravati,Automobile Technician,Problem solving,33.0
+Beed,Two-Wheeler Mechanic,Tool handling,33.0
+Yavatmal,Data Entry Operator,Typing speed,33.0
+Akola,Mobile Repair Technician,Customer handling,33.0
+Satara,Accounts Assistant,Record keeping,33.0
+Solapur,Accounts Assistant,Record keeping,33.0
+Solapur,Two-Wheeler Mechanic,Safety protocols,33.0
+Thane,Data Entry Operator,Typing speed,33.0
+Solapur,Accounts Assistant,Communication,33.0
+Mumbai Suburban,Data Entry Operator,MS Excel,33.0
+Nagpur,Electrician,Safety protocols,33.0
+Nagpur,Electrician,Circuit testing,33.0
+Latur,Mobile Repair Technician,Customer handling,33.0
+Nanded,Two-Wheeler Mechanic,Problem solving,33.0
+Pune,Automobile Technician,Problem solving,33.0
+Dhule,Data Entry Operator,Typing speed,33.0
+Beed,Mobile Repair Technician,Steady hands,33.0
+Kolhapur,Data Entry Operator,Basic computer literacy,33.0
+Ahmednagar,Automobile Technician,Problem solving,33.0
+Beed,Automobile Technician,Engine diagnostics,33.0
+Nanded,Two-Wheeler Mechanic,Engine diagnostics,33.0
+Nagpur,Accounts Assistant,Communication,33.0
+Solapur,Mobile Repair Technician,Soldering,33.0
+Thane,Automobile Technician,Tool handling,33.0
+Thane,Automobile Technician,Problem solving,33.0
+Nashik,Two-Wheeler Mechanic,Tool handling,33.0
+Satara,Data Entry Operator,Basic computer literacy,33.0
+Mumbai Suburban,Electrician,Basic wiring,33.0
+Dhule,Mobile Repair Technician,Customer handling,33.0
+Nagpur,Automobile Technician,Tool handling,33.0
+Sangli,Mobile Repair Technician,Customer handling,33.0
+Chhatrapati Sambhajinagar,Mobile Repair Technician,Customer handling,33.0
+Dhule,Mobile Repair Technician,Component diagnosis,33.0
+Dhule,Mobile Repair Technician,Soldering,33.0
+Nagpur,Data Entry Operator,Typing speed,33.0
+Nanded,Customer Support Associate,Basic computer literacy,33.0
+Pune,Two-Wheeler Mechanic,Safety protocols,33.0
+Nanded,Web Developer (Entry-level),Logical thinking,33.0
+Solapur,Data Entry Operator,Typing speed,33.0
+Dhule,Mobile Repair Technician,Steady hands,33.0
+Solapur,Electrician,Basic wiring,33.0
+Nagpur,Web Developer (Entry-level),HTML/CSS basics,33.0
+Nanded,Data Entry Operator,Attention to detail,33.0
+Satara,Mobile Repair Technician,Steady hands,33.0
+Jalgaon,Two-Wheeler Mechanic,Engine diagnostics,33.0
+Dhule,Customer Support Associate,English reading,33.0
+Pune,Mobile Repair Technician,Soldering,33.0
+Nashik,Electrician,Safety protocols,33.0
+Mumbai Suburban,Web Developer (Entry-level),English reading,33.0
+Pune,Data Entry Operator,MS Excel,33.0
+Mumbai City,Mobile Repair Technician,Customer handling,33.0
+Yavatmal,Accounts Assistant,Communication,33.0
+Yavatmal,Accounts Assistant,Tally software,33.0
+Dhule,Automobile Technician,Engine diagnostics,33.0
+Mumbai Suburban,Customer Support Associate,Patience,33.0
+Nanded,Automobile Technician,Problem solving,33.0
+Nanded,Two-Wheeler Mechanic,Safety protocols,33.0
+Mumbai Suburban,Accounts Assistant,Record keeping,33.0
+Kolhapur,CNC Machine Operator,Machine operation,32.0
+Mumbai Suburban,Electrician,Tool handling,30.0
+Nashik,Mobile Repair Technician,Soldering,30.0
+Solapur,CNC Machine Operator,Machine operation,30.0
+Satara,Two-Wheeler Mechanic,Problem solving,30.0
+Nashik,Accounts Assistant,Tally software,30.0
+Jalgaon,Welder,Blueprint reading,30.0
+Mumbai Suburban,Mobile Repair Technician,Steady hands,30.0
+Mumbai Suburban,Mobile Repair Technician,Soldering,30.0
+Kolhapur,Automobile Technician,Problem solving,30.0
+Solapur,Electrician,Safety protocols,30.0
+Nashik,Web Developer (Entry-level),HTML/CSS basics,30.0
+Nashik,Web Developer (Entry-level),English reading,30.0
+Solapur,Electrician,Tool handling,30.0
+Latur,Data Entry Operator,Typing speed,30.0
+Amravati,Customer Support Associate,Patience,30.0
+Akola,Web Developer (Entry-level),Basic computer literacy,30.0
+Sangli,Customer Support Associate,Basic computer literacy,30.0
+Nagpur,Data Entry Operator,Attention to detail,30.0
+Ahmednagar,Web Developer (Entry-level),Basic computer literacy,30.0
+Latur,Two-Wheeler Mechanic,Safety protocols,30.0
+Satara,Mobile Repair Technician,Soldering,30.0
+Kolhapur,Automobile Technician,Tool handling,30.0
+Jalgaon,Web Developer (Entry-level),Basic computer literacy,30.0
+Satara,Accounts Assistant,Communication,30.0
+Satara,Automobile Technician,Problem solving,30.0
+Nagpur,Data Entry Operator,Basic computer literacy,30.0
+Kolhapur,Two-Wheeler Mechanic,Tool handling,30.0
+Nanded,Customer Support Associate,Patience,30.0
+Thane,Electrician,Tool handling,30.0
+Solapur,Automobile Technician,Problem solving,30.0
+Latur,Data Entry Operator,Basic computer literacy,30.0
+Mumbai Suburban,Electrician,Safety protocols,30.0
+Pune,Accounts Assistant,Tally software,30.0
+Nanded,Accounts Assistant,Record keeping,30.0
+Solapur,Accounts Assistant,Basic numeracy,30.0
+Solapur,Data Entry Operator,Basic computer literacy,30.0
+Solapur,Two-Wheeler Mechanic,Problem solving,30.0
+Pune,Data Entry Operator,Basic computer literacy,30.0
+Pune,Web Developer (Entry-level),HTML/CSS basics,30.0
+Jalgaon,Mobile Repair Technician,Component diagnosis,30.0
+Nagpur,Electrician,Tool handling,30.0
+Kolhapur,Electrician,Tool handling,30.0
+Jalgaon,Mobile Repair Technician,Steady hands,30.0
+Yavatmal,Mobile Repair Technician,Soldering,30.0
+Nagpur,Accounts Assistant,Tally software,30.0
+Mumbai Suburban,Automobile Technician,Tool handling,30.0
+Thane,Two-Wheeler Mechanic,Engine diagnostics,30.0
+Thane,Mobile Repair Technician,Steady hands,30.0
+Solapur,Two-Wheeler Mechanic,Engine diagnostics,30.0
+Dhule,Data Entry Operator,MS Excel,30.0
+Jalgaon,Customer Support Associate,Patience,30.0
+Nashik,Data Entry Operator,MS Excel,30.0
+Satara,Data Entry Operator,Attention to detail,30.0
+Nashik,Two-Wheeler Mechanic,Safety protocols,30.0
+Nashik,Customer Support Associate,Communication,30.0
+Nashik,Electrician,Circuit testing,30.0
+Beed,Mobile Repair Technician,Soldering,30.0
+Chhatrapati Sambhajinagar,Automobile Technician,Tool handling,30.0
+Dhule,Automobile Technician,Problem solving,30.0
+Satara,Two-Wheeler Mechanic,Safety protocols,30.0
+Solapur,Automobile Technician,Safety protocols,30.0
+Nagpur,Accounts Assistant,Record keeping,30.0
+Sangli,Mobile Repair Technician,Component diagnosis,30.0
+Kolhapur,Two-Wheeler Mechanic,Engine diagnostics,30.0
+Latur,Accounts Assistant,Basic numeracy,30.0
+Thane,Two-Wheeler Mechanic,Problem solving,30.0
+Thane,Two-Wheeler Mechanic,Safety protocols,30.0
+Nagpur,Automobile Technician,Engine diagnostics,30.0
+Mumbai Suburban,Mobile Repair Technician,Component diagnosis,30.0
+Nagpur,Automobile Technician,Safety protocols,30.0
+Yavatmal,Data Entry Operator,Attention to detail,30.0
+Jalgaon,Two-Wheeler Mechanic,Safety protocols,30.0
+Jalgaon,CNC Machine Operator,Blueprint reading,28.0
+Dhule,Welder,Welding technique,28.0
+Kolhapur,CNC Machine Operator,Safety protocols,28.0
+Akola,CNC Machine Operator,Precision measurement,28.0
+Nashik,Welder,Tool handling,28.0
+Chhatrapati Sambhajinagar,Mobile Repair Technician,Component diagnosis,27.0
+Jalgaon,Two-Wheeler Mechanic,Tool handling,27.0
+Solapur,Electrician,Circuit testing,27.0
+Nashik,Mobile Repair Technician,Component diagnosis,27.0
+Pune,Electrician,Circuit testing,27.0
+Nashik,Customer Support Associate,Basic computer literacy,27.0
+Mumbai Suburban,Data Entry Operator,Typing speed,27.0
+Satara,Automobile Technician,Tool handling,27.0
+Solapur,Two-Wheeler Mechanic,Tool handling,27.0
+Nashik,Electrician,Basic wiring,27.0
+Pune,Accounts Assistant,Record keeping,27.0
+Jalgaon,Web Developer (Entry-level),Logical thinking,27.0
+Kolhapur,Automobile Technician,Safety protocols,27.0
+Nagpur,Web Developer (Entry-level),English reading,27.0
+Chhatrapati Sambhajinagar,Electrician,Tool handling,27.0
+Thane,Electrician,Circuit testing,27.0
+Latur,Electrician,Basic wiring,27.0
+Yavatmal,Web Developer (Entry-level),English reading,27.0
+Beed,Electrician,Basic wiring,27.0
+Jalgaon,Mobile Repair Technician,Customer handling,27.0
+Nagpur,Mobile Repair Technician,Component diagnosis,27.0
+Yavatmal,Mobile Repair Technician,Component diagnosis,27.0
+Yavatmal,Mobile Repair Technician,Steady hands,27.0
+Nanded,Accounts Assistant,Tally software,27.0
+Ahmednagar,Electrician,Tool handling,27.0
+Solapur,Customer Support Associate,Patience,27.0
+Yavatmal,Accounts Assistant,Basic numeracy,27.0
+Amravati,Two-Wheeler Mechanic,Engine diagnostics,27.0
+Thane,Data Entry Operator,MS Excel,27.0
+Solapur,Web Developer (Entry-level),HTML/CSS basics,27.0
+Pune,Two-Wheeler Mechanic,Engine diagnostics,27.0
+Nanded,Web Developer (Entry-level),English reading,27.0
+Thane,Data Entry Operator,Basic computer literacy,27.0
+Nagpur,Accounts Assistant,Basic numeracy,27.0
+Sangli,Customer Support Associate,Communication,27.0
+Latur,Accounts Assistant,Communication,27.0
+Mumbai Suburban,Automobile Technician,Engine diagnostics,27.0
+Sangli,Automobile Technician,Safety protocols,27.0
+Pune,Mobile Repair Technician,Steady hands,27.0
+Yavatmal,Automobile Technician,Safety protocols,27.0
+Beed,Mobile Repair Technician,Customer handling,27.0
+Dhule,Two-Wheeler Mechanic,Engine diagnostics,27.0
+Mumbai Suburban,Web Developer (Entry-level),Basic computer literacy,27.0
+Nashik,Customer Support Associate,English reading,27.0
+Satara,Electrician,Circuit testing,27.0
+Chhatrapati Sambhajinagar,Automobile Technician,Safety protocols,27.0
+Chhatrapati Sambhajinagar,Automobile Technician,Engine diagnostics,27.0
+Mumbai Suburban,Mobile Repair Technician,Customer handling,27.0
+Mumbai City,Customer Support Associate,Patience,27.0
+Sangli,Accounts Assistant,Tally software,27.0
+Sangli,Accounts Assistant,Record keeping,27.0
+Jalgaon,Web Developer (Entry-level),HTML/CSS basics,27.0
+Nanded,Data Entry Operator,Typing speed,27.0
+Akola,Data Entry Operator,Attention to detail,27.0
+Satara,Automobile Technician,Safety protocols,27.0
+Dhule,Automobile Technician,Tool handling,27.0
+Nanded,Two-Wheeler Mechanic,Tool handling,27.0
+Nanded,Customer Support Associate,English reading,27.0
+Nanded,Customer Support Associate,Communication,27.0
+Nashik,Data Entry Operator,Basic computer literacy,27.0
+Latur,Two-Wheeler Mechanic,Tool handling,27.0
+Yavatmal,Accounts Assistant,Record keeping,27.0
+Pune,Web Developer (Entry-level),Logical thinking,27.0
+Kolhapur,Accounts Assistant,Basic numeracy,27.0
+Kolhapur,Accounts Assistant,Record keeping,27.0
+Jalgaon,Welder,Welding technique,26.0
+Nashik,Tailor / Fashion Designer,Measurement,26.0
+Nanded,Tailor / Fashion Designer,Stitching,26.0
+Nashik,Field Sales Executive,Persuasion,26.0
+Beed,CNC Machine Operator,Precision measurement,26.0
+Beed,CNC Machine Operator,Blueprint reading,26.0
+Nashik,Tailor / Fashion Designer,Creativity,26.0
+Latur,Welder,Welding technique,26.0
+Latur,Welder,Safety protocols,26.0
+Latur,Welder,Blueprint reading,26.0
+Akola,CNC Machine Operator,Blueprint reading,26.0
+Nashik,Tailor / Fashion Designer,Stitching,24.0
+Nashik,Mobile Repair Technician,Steady hands,24.0
+Nagpur,Web Developer (Entry-level),Basic computer literacy,24.0
+Mumbai Suburban,Data Entry Operator,Attention to detail,24.0
+Nashik,Web Developer (Entry-level),Logical thinking,24.0
+Yavatmal,Web Developer (Entry-level),HTML/CSS basics,24.0
+Yavatmal,Web Developer (Entry-level),Basic computer literacy,24.0
+Nanded,Accounts Assistant,Communication,24.0
+Dhule,Welder,Tool handling,24.0
+Dhule,Welder,Safety protocols,24.0
+Dhule,Welder,Blueprint reading,24.0
+Nagpur,Welder,Welding technique,24.0
+Ahmednagar,CNC Machine Operator,Precision measurement,24.0
+Mumbai Suburban,Customer Support Associate,Basic computer literacy,24.0
+Kolhapur,CNC Machine Operator,Blueprint reading,24.0
+Amravati,Electrician,Circuit testing,24.0
+Nashik,Welder,Safety protocols,24.0
+Mumbai Suburban,Data Entry Operator,Basic computer literacy,24.0
+Ahmednagar,CNC Machine Operator,Machine operation,24.0
+Akola,CNC Machine Operator,Machine operation,24.0
+Akola,CNC Machine Operator,Safety protocols,24.0
+Mumbai City,Tailor / Fashion Designer,Stitching,24.0
+Solapur,CNC Machine Operator,Safety protocols,24.0
+Akola,Data Entry Operator,Typing speed,24.0
+Yavatmal,CNC Machine Operator,Precision measurement,24.0
+Yavatmal,CNC Machine Operator,Machine operation,24.0
+Jalgaon,Two-Wheeler Mechanic,Problem solving,24.0
+Sangli,Web Developer (Entry-level),Basic computer literacy,24.0
+Beed,Data Entry Operator,Attention to detail,24.0
+Yavatmal,Data Entry Operator,MS Excel,24.0
+Sangli,Web Developer (Entry-level),Logical thinking,24.0
+Kolhapur,Accounts Assistant,Tally software,24.0
+Ahmednagar,Welder,Blueprint reading,24.0
+Nashik,Data Entry Operator,Typing speed,24.0
+Sangli,Automobile Technician,Tool handling,24.0
+Yavatmal,Data Entry Operator,Basic computer literacy,24.0
+Chhatrapati Sambhajinagar,Automobile Technician,Problem solving,24.0
+Beed,Two-Wheeler Mechanic,Safety protocols,24.0
+Satara,Electrician,Basic wiring,24.0
+Satara,Accounts Assistant,Tally software,24.0
+Solapur,Tailor / Fashion Designer,Stitching,24.0
+Beed,Mobile Repair Technician,Component diagnosis,24.0
+Jalgaon,Electrician,Safety protocols,24.0
+Amravati,Mobile Repair Technician,Soldering,24.0
+Dhule,Two-Wheeler Mechanic,Tool handling,24.0
+Mumbai City,Accounts Assistant,Tally software,24.0
+Amravati,Mobile Repair Technician,Component diagnosis,24.0
+Thane,Two-Wheeler Mechanic,Tool handling,24.0
+Kolhapur,Web Developer (Entry-level),HTML/CSS basics,24.0
+Chhatrapati Sambhajinagar,Electrician,Basic wiring,24.0
+Amravati,Two-Wheeler Mechanic,Tool handling,24.0
+Solapur,Web Developer (Entry-level),Logical thinking,24.0
+Sangli,Nursing Assistant,Patient care basics,24.0
+Kolhapur,CNC Machine Operator,Precision measurement,24.0
+Amravati,Two-Wheeler Mechanic,Safety protocols,24.0
+Pune,Two-Wheeler Mechanic,Tool handling,24.0
+Beed,CNC Machine Operator,Machine operation,24.0
+Sangli,Nursing Assistant,Empathy,24.0
+Ahmednagar,Welder,Welding technique,24.0
+Dhule,Accounts Assistant,Basic numeracy,24.0
+Nanded,Accounts Assistant,Basic numeracy,24.0
+Dhule,Accounts Assistant,Tally software,24.0
+Solapur,Web Developer (Entry-level),English reading,24.0
+Nagpur,Welder,Tool handling,24.0
+Jalgaon,Mobile Repair Technician,Soldering,24.0
+Thane,Mobile Repair Technician,Customer handling,24.0
+Nagpur,Mobile Repair Technician,Steady hands,24.0
+Jalgaon,Accounts Assistant,Tally software,24.0
+Jalgaon,Accounts Assistant,Record keeping,24.0
+Pune,Electrician,Basic wiring,24.0
+Mumbai Suburban,Accounts Assistant,Basic numeracy,24.0
+Beed,Welder,Welding technique,22.0
+Nanded,CNC Machine Operator,Blueprint reading,22.0
+Akola,Food & Beverage Service Staff,Communication,22.0
+Akola,Food & Beverage Service Staff,Teamwork,22.0
+Nanded,Tailor / Fashion Designer,Creativity,22.0
+Satara,CNC Machine Operator,Machine operation,22.0
+Nagpur,Solar Panel Installer,Tool handling,22.0
+Nagpur,CNC Machine Operator,Safety protocols,22.0
+Nashik,CNC Machine Operator,Machine operation,22.0
+Nagpur,Welder,Blueprint reading,22.0
+Thane,Welder,Tool handling,22.0
+Ahmednagar,Field Sales Executive,Persuasion,22.0
+Jalgaon,Welder,Safety protocols,22.0
+Mumbai City,CNC Machine Operator,Blueprint reading,22.0
+Mumbai City,Tailor / Fashion Designer,Measurement,22.0
+Akola,Nursing Assistant,Empathy,22.0
+Nashik,Field Sales Executive,Target orientation,22.0
+Solapur,Tailor / Fashion Designer,Pattern making,22.0
+Jalgaon,CNC Machine Operator,Machine operation,22.0
+Sangli,Food & Beverage Service Staff,Hygiene practices,22.0
+Nanded,CNC Machine Operator,Precision measurement,22.0
+Nanded,Tailor / Fashion Designer,Measurement,22.0
+Akola,Nursing Assistant,Patient care basics,22.0
+Ahmednagar,Welder,Tool handling,22.0
+Ahmednagar,Electrical Wireman,Basic wiring,22.0
+Satara,CNC Machine Operator,Precision measurement,22.0
+Ahmednagar,CNC Machine Operator,Blueprint reading,22.0
+Kolhapur,Welder,Tool handling,22.0
+Nanded,Solar Panel Installer,Working at heights,22.0
+Mumbai City,Accounts Assistant,Basic numeracy,21.0
+Yavatmal,Customer Support Associate,Patience,21.0
+Nagpur,Customer Support Associate,English reading,21.0
+Chhatrapati Sambhajinagar,Two-Wheeler Mechanic,Safety protocols,21.0
+Amravati,Electrician,Basic wiring,21.0
+Amravati,Electrician,Tool handling,21.0
+Mumbai Suburban,Customer Support Associate,English reading,21.0
+Pune,Electrician,Tool handling,21.0
+Mumbai Suburban,Customer Support Associate,Communication,21.0
+Pune,Electrician,Safety protocols,21.0
+Yavatmal,Customer Support Associate,English reading,21.0
+Kolhapur,Two-Wheeler Mechanic,Safety protocols,21.0
+Nashik,Automobile Technician,Engine diagnostics,21.0
+Dhule,Accounts Assistant,Record keeping,21.0
+Mumbai Suburban,Two-Wheeler Mechanic,Tool handling,21.0
+Nashik,Automobile Technician,Safety protocols,21.0
+Pune,Two-Wheeler Mechanic,Problem solving,21.0
+Nagpur,Customer Support Associate,Patience,21.0
+Mumbai City,Data Entry Operator,MS Excel,21.0
+Akola,Data Entry Operator,Basic computer literacy,21.0
+Amravati,Web Developer (Entry-level),Logical thinking,21.0
+Solapur,Web Developer (Entry-level),Basic computer literacy,21.0
+Satara,Mobile Repair Technician,Customer handling,21.0
+Beed,Automobile Technician,Tool handling,21.0
+Satara,Mobile Repair Technician,Component diagnosis,21.0
+Mumbai Suburban,Two-Wheeler Mechanic,Safety protocols,21.0
+Latur,Customer Support Associate,Patience,21.0
+Sangli,Accounts Assistant,Basic numeracy,21.0
+Beed,Data Entry Operator,MS Excel,21.0
+Sangli,Automobile Technician,Engine diagnostics,21.0
+Jalgaon,Customer Support Associate,Communication,21.0
+Pune,Accounts Assistant,Basic numeracy,21.0
+Nagpur,Two-Wheeler Mechanic,Problem solving,21.0
+Mumbai City,Web Developer (Entry-level),Logical thinking,21.0
+Akola,Customer Support Associate,Basic computer literacy,21.0
+Solapur,Customer Support Associate,Communication,21.0
+Mumbai Suburban,Two-Wheeler Mechanic,Engine diagnostics,21.0
+Pune,Web Developer (Entry-level),English reading,21.0
+Solapur,Customer Support Associate,Basic computer literacy,21.0
+Kolhapur,Electrician,Safety protocols,21.0
+Akola,Customer Support Associate,Communication,21.0
+Nagpur,Mobile Repair Technician,Soldering,21.0
+Nagpur,Mobile Repair Technician,Customer handling,21.0
+Yavatmal,Web Developer (Entry-level),Logical thinking,21.0
+Nashik,Web Developer (Entry-level),Basic computer literacy,21.0
+Solapur,Mobile Repair Technician,Customer handling,21.0
+Pune,Web Developer (Entry-level),Basic computer literacy,21.0
+Satara,Accounts Assistant,Basic numeracy,21.0
+Kolhapur,Two-Wheeler Mechanic,Problem solving,21.0
+Pune,Accounts Assistant,Communication,21.0
+Satara,Two-Wheeler Mechanic,Tool handling,21.0
+Mumbai City,Accounts Assistant,Communication,21.0
+Mumbai City,Data Entry Operator,Attention to detail,21.0
+Dhule,Web Developer (Entry-level),Logical thinking,21.0
+Chhatrapati Sambhajinagar,Electrician,Safety protocols,21.0
+Jalgaon,Accounts Assistant,Basic numeracy,21.0
+Satara,Electrician,Safety protocols,21.0
+Satara,Electrician,Tool handling,21.0
+Nashik,Electrician,Tool handling,21.0
+Sangli,Web Developer (Entry-level),HTML/CSS basics,21.0
+Dhule,Data Entry Operator,Basic computer literacy,21.0
+Jalgaon,Electrician,Tool handling,21.0
+Yavatmal,Welder,Safety protocols,20.0
+Thane,Welder,Welding technique,20.0
+Thane,Welder,Blueprint reading,20.0
+Nagpur,CNC Machine Operator,Machine operation,20.0
+Yavatmal,Retail Sales Associate,Basic billing,20.0
+Akola,Tailor / Fashion Designer,Stitching,20.0
+Ahmednagar,Field Sales Executive,Target orientation,20.0
+Yavatmal,Welder,Blueprint reading,20.0
+Nashik,Tailor / Fashion Designer,Pattern making,20.0
+Yavatmal,CNC Machine Operator,Blueprint reading,20.0
+Nagpur,CNC Machine Operator,Blueprint reading,20.0
+Nashik,CNC Machine Operator,Precision measurement,20.0
+Ahmednagar,Food & Beverage Service Staff,Hygiene practices,20.0
+Akola,Welder,Blueprint reading,20.0
+Akola,Welder,Welding technique,20.0
+Nashik,CNC Machine Operator,Blueprint reading,20.0
+Mumbai Suburban,Field Sales Executive,Persuasion,20.0
+Satara,CNC Machine Operator,Blueprint reading,20.0
+Beed,Electrical Wireman,Circuit testing,20.0
+Beed,Electrical Wireman,Basic wiring,20.0
+Sangli,Field Sales Executive,Local travel willingness,20.0
+Akola,Food & Beverage Service Staff,Customer handling,20.0
+Pune,Welder,Safety protocols,20.0
+Yavatmal,Tailor / Fashion Designer,Pattern making,20.0
+Dhule,Nursing Assistant,Patient care basics,20.0
+Nagpur,Electrical Wireman,Circuit testing,20.0
+Kolhapur,Welder,Welding technique,20.0
+Solapur,Welder,Blueprint reading,20.0
+Dhule,Nursing Assistant,Empathy,20.0
+Nagpur,Electrical Wireman,Basic wiring,20.0
+Akola,Field Sales Executive,Target orientation,20.0
+Pune,Welder,Welding technique,20.0
+Thane,Food & Beverage Service Staff,Teamwork,20.0
+Jalgaon,Field Sales Executive,Local travel willingness,20.0
+Jalgaon,CNC Machine Operator,Safety protocols,20.0
+Nanded,Solar Panel Installer,Basic wiring,20.0
+Solapur,Tailor / Fashion Designer,Creativity,20.0
+Thane,Tailor / Fashion Designer,Pattern making,20.0
+Thane,Tailor / Fashion Designer,Stitching,20.0
+Dhule,CNC Machine Operator,Blueprint reading,20.0
+Mumbai Suburban,CNC Machine Operator,Blueprint reading,20.0
+Mumbai Suburban,CNC Machine Operator,Machine operation,20.0
+Akola,Field Sales Executive,Persuasion,20.0
+Mumbai City,CNC Machine Operator,Machine operation,20.0
+Akola,Food & Beverage Service Staff,Hygiene practices,20.0
+Solapur,Welder,Welding technique,20.0
+Jalgaon,Welder,Tool handling,20.0
+Latur,CNC Machine Operator,Precision measurement,20.0
+Ahmednagar,Nursing Assistant,Hygiene practices,20.0
+Satara,Web Developer (Entry-level),HTML/CSS basics,18.0
+Yavatmal,Welder,Tool handling,18.0
+Thane,CNC Machine Operator,Precision measurement,18.0
+Dhule,Web Developer (Entry-level),English reading,18.0
+Akola,Electrical Wireman,Circuit testing,18.0
+Mumbai City,Customer Support Associate,English reading,18.0
+Pune,Mobile Repair Technician,Customer handling,18.0
+Pune,Retail Sales Associate,Inventory basics,18.0
+Mumbai Suburban,Two-Wheeler Mechanic,Problem solving,18.0
+Yavatmal,Solar Panel Installer,Working at heights,18.0
+Beed,Customer Support Associate,Communication,18.0
+Thane,Web Developer (Entry-level),Logical thinking,18.0
+Solapur,Field Sales Executive,Persuasion,18.0
+Amravati,CNC Machine Operator,Blueprint reading,18.0
+Amravati,CNC Machine Operator,Machine operation,18.0
+Amravati,CNC Machine Operator,Precision measurement,18.0
+Yavatmal,Field Sales Executive,Persuasion,18.0
+Sangli,Welder,Blueprint reading,18.0
+Mumbai Suburban,Automobile Technician,Safety protocols,18.0
+Mumbai City,Nursing Assistant,Empathy,18.0
+Mumbai Suburban,Automobile Technician,Problem solving,18.0
+Amravati,Mobile Repair Technician,Steady hands,18.0
+Yavatmal,Field Sales Executive,Target orientation,18.0
+Amravati,Electrician,Safety protocols,18.0
+Beed,Customer Support Associate,English reading,18.0
+Mumbai City,Tailor / Fashion Designer,Pattern making,18.0
+Nagpur,Two-Wheeler Mechanic,Tool handling,18.0
+Mumbai City,Two-Wheeler Mechanic,Problem solving,18.0
+Mumbai City,Two-Wheeler Mechanic,Safety protocols,18.0
+Mumbai City,Two-Wheeler Mechanic,Engine diagnostics,18.0
+Dhule,Two-Wheeler Mechanic,Problem solving,18.0
+Kolhapur,Web Developer (Entry-level),Basic computer literacy,18.0
+Ahmednagar,Electrical Wireman,Safety protocols,18.0
+Nagpur,Two-Wheeler Mechanic,Engine diagnostics,18.0
+Satara,Tailor / Fashion Designer,Pattern making,18.0
+Latur,Customer Support Associate,Basic computer literacy,18.0
+Beed,Customer Support Associate,Patience,18.0
+Sangli,Automobile Technician,Problem solving,18.0
+Mumbai City,Accounts Assistant,Record keeping,18.0
+Beed,Data Entry Operator,Basic computer literacy,18.0
+Nagpur,CNC Machine Operator,Precision measurement,18.0
+Kolhapur,Customer Support Associate,Patience,18.0
+Nanded,CNC Machine Operator,Safety protocols,18.0
+Akola,Tailor / Fashion Designer,Pattern making,18.0
+Akola,Customer Support Associate,Patience,18.0
+Latur,Customer Support Associate,English reading,18.0
+Thane,Welder,Safety protocols,18.0
+Yavatmal,Retail Sales Associate,Communication,18.0
+Satara,Electrical Wireman,Circuit testing,18.0
+Mumbai Suburban,Field Sales Executive,Target orientation,18.0
+Nashik,Solar Panel Installer,Basic wiring,18.0
+Nashik,Automobile Technician,Problem solving,18.0
+Pune,Nursing Assistant,Hygiene practices,18.0
+Pune,Nursing Assistant,Empathy,18.0
+Akola,Welder,Tool handling,18.0
+Nagpur,Welder,Safety protocols,18.0
+Amravati,Welder,Blueprint reading,18.0
+Yavatmal,Tailor / Fashion Designer,Stitching,18.0
+Akola,Field Sales Executive,Local travel willingness,18.0
+Mumbai Suburban,Accounts Assistant,Communication,18.0
+Dhule,Two-Wheeler Mechanic,Safety protocols,18.0
+Yavatmal,Two-Wheeler Mechanic,Safety protocols,18.0
+Yavatmal,Two-Wheeler Mechanic,Tool handling,18.0
+Nanded,Field Sales Executive,Persuasion,18.0
+Amravati,Field Sales Executive,Persuasion,18.0
+Akola,Data Entry Operator,MS Excel,18.0
+Kolhapur,Welder,Blueprint reading,18.0
+Nagpur,Electrical Wireman,Tool handling,18.0
+Nashik,Electrical Wireman,Tool handling,18.0
+Jalgaon,Accounts Assistant,Communication,18.0
+Jalgaon,Customer Support Associate,English reading,18.0
+Mumbai City,Web Developer (Entry-level),Basic computer literacy,18.0
+Beed,Automobile Technician,Safety protocols,18.0
+Beed,Welder,Blueprint reading,18.0
+Amravati,Customer Support Associate,Basic computer literacy,18.0
+Nagpur,Solar Panel Installer,Working at heights,18.0
+Amravati,Customer Support Associate,English reading,18.0
+Mumbai City,Two-Wheeler Mechanic,Tool handling,18.0
+Yavatmal,Retail Sales Associate,Customer handling,18.0
+Dhule,Nursing Assistant,Hygiene practices,18.0
+Solapur,Customer Support Associate,English reading,18.0
+Ahmednagar,CNC Machine Operator,Safety protocols,18.0
+Yavatmal,Customer Support Associate,Communication,18.0
+Amravati,Web Developer (Entry-level),HTML/CSS basics,18.0
+Sangli,Nursing Assistant,Communication,18.0
+Mumbai City,Data Entry Operator,Basic computer literacy,18.0
+Nashik,Electrical Wireman,Circuit testing,18.0
+Nashik,Electrical Wireman,Basic wiring,18.0
+Nashik,Field Sales Executive,Communication,18.0
+Chhatrapati Sambhajinagar,Two-Wheeler Mechanic,Engine diagnostics,18.0
+Akola,Retail Sales Associate,Inventory basics,18.0
+Ahmednagar,Nursing Assistant,Patient care basics,18.0
+Amravati,Web Developer (Entry-level),Basic computer literacy,18.0
+Sangli,Field Sales Executive,Target orientation,18.0
+Yavatmal,Food & Beverage Service Staff,Communication,18.0
+Amravati,Welder,Welding technique,18.0
+Solapur,Electrical Wireman,Safety protocols,18.0
+Nashik,Field Sales Executive,Local travel willingness,18.0
+Sangli,Web Developer (Entry-level),English reading,18.0
+Latur,CNC Machine Operator,Machine operation,18.0
+Kolhapur,Accounts Assistant,Communication,18.0
+Ahmednagar,Nursing Assistant,Communication,16.0
+Akola,Electrical Wireman,Basic wiring,16.0
+Thane,CNC Machine Operator,Machine operation,16.0
+Kolhapur,Tailor / Fashion Designer,Measurement,16.0
+Mumbai City,Nursing Assistant,Hygiene practices,16.0
+Kolhapur,Retail Sales Associate,Customer handling,16.0
+Kolhapur,Retail Sales Associate,Inventory basics,16.0
+Latur,Field Sales Executive,Target orientation,16.0
+Yavatmal,Field Sales Executive,Communication,16.0
+Yavatmal,Field Sales Executive,Local travel willingness,16.0
+Latur,Field Sales Executive,Local travel willingness,16.0
+Mumbai City,Welder,Blueprint reading,16.0
+Solapur,Field Sales Executive,Local travel willingness,16.0
+Sangli,Food & Beverage Service Staff,Communication,16.0
+Nanded,CNC Machine Operator,Machine operation,16.0
+Thane,CNC Machine Operator,Blueprint reading,16.0
+Chhatrapati Sambhajinagar,Welder,Blueprint reading,16.0
+Mumbai City,Retail Sales Associate,Basic billing,16.0
+Mumbai City,Retail Sales Associate,Inventory basics,16.0
+Nanded,Tailor / Fashion Designer,Pattern making,16.0
+Thane,Tailor / Fashion Designer,Creativity,16.0
+Jalgaon,Field Sales Executive,Persuasion,16.0
+Thane,Food & Beverage Service Staff,Customer handling,16.0
+Yavatmal,Tailor / Fashion Designer,Creativity,16.0
+Ahmednagar,Electrical Wireman,Circuit testing,16.0
+Dhule,CNC Machine Operator,Machine operation,16.0
+Satara,Tailor / Fashion Designer,Measurement,16.0
+Yavatmal,Tailor / Fashion Designer,Measurement,16.0
+Nanded,Retail Sales Associate,Inventory basics,16.0
+Nashik,Electrical Wireman,Safety protocols,16.0
+Dhule,Solar Panel Installer,Safety protocols,16.0
+Latur,Welder,Tool handling,16.0
+Akola,Nursing Assistant,Hygiene practices,16.0
+Sangli,Retail Sales Associate,Basic billing,16.0
+Nanded,Retail Sales Associate,Basic billing,16.0
+Jalgaon,Field Sales Executive,Communication,16.0
+Jalgaon,CNC Machine Operator,Precision measurement,16.0
+Beed,CNC Machine Operator,Safety protocols,16.0
+Kolhapur,Welder,Safety protocols,16.0
+Sangli,Field Sales Executive,Communication,16.0
+Sangli,Field Sales Executive,Persuasion,16.0
+Nanded,Field Sales Executive,Target orientation,16.0
+Satara,CNC Machine Operator,Safety protocols,16.0
+Latur,CNC Machine Operator,Safety protocols,16.0
+Latur,CNC Machine Operator,Blueprint reading,16.0
+Mumbai City,Tailor / Fashion Designer,Creativity,16.0
+Nagpur,Retail Sales Associate,Inventory basics,16.0
+Solapur,Food & Beverage Service Staff,Hygiene practices,16.0
+Kolhapur,Electrical Wireman,Basic wiring,16.0
+Mumbai City,CNC Machine Operator,Safety protocols,16.0
+Nanded,Nursing Assistant,Empathy,16.0
+Akola,Welder,Safety protocols,16.0
+Solapur,Food & Beverage Service Staff,Teamwork,16.0
+Satara,Field Sales Executive,Local travel willingness,16.0
+Thane,Tailor / Fashion Designer,Measurement,16.0
+Mumbai Suburban,Field Sales Executive,Communication,16.0
+Sangli,CNC Machine Operator,Machine operation,16.0
+Ahmednagar,Electrical Wireman,Tool handling,16.0
+Yavatmal,CNC Machine Operator,Safety protocols,16.0
+Nashik,Solar Panel Installer,Working at heights,16.0
+Pune,Field Sales Executive,Persuasion,16.0
+Ahmednagar,Food & Beverage Service Staff,Customer handling,16.0
+Solapur,Tailor / Fashion Designer,Measurement,16.0
+Akola,Nursing Assistant,Communication,16.0
+Nashik,CNC Machine Operator,Safety protocols,16.0
+Satara,Field Sales Executive,Target orientation,16.0
+Nagpur,Retail Sales Associate,Communication,16.0
+Kolhapur,Customer Support Associate,English reading,15.0
+Nagpur,Two-Wheeler Mechanic,Safety protocols,15.0
+Sangli,Two-Wheeler Mechanic,Tool handling,15.0
+Jalgaon,Customer Support Associate,Basic computer literacy,15.0
+Mumbai City,Customer Support Associate,Communication,15.0
+Mumbai City,Customer Support Associate,Basic computer literacy,15.0
+Amravati,Mobile Repair Technician,Customer handling,15.0
+Mumbai City,Web Developer (Entry-level),English reading,15.0
+Beed,Data Entry Operator,Typing speed,15.0
+Thane,Web Developer (Entry-level),HTML/CSS basics,15.0
+Thane,Accounts Assistant,Record keeping,15.0
+Dhule,Accounts Assistant,Communication,15.0
+Jalgaon,Web Developer (Entry-level),English reading,15.0
+Mumbai City,Web Developer (Entry-level),HTML/CSS basics,15.0
+Beed,Web Developer (Entry-level),Basic computer literacy,15.0
+Yavatmal,Two-Wheeler Mechanic,Engine diagnostics,15.0
+Thane,Accounts Assistant,Tally software,15.0
+Amravati,Two-Wheeler Mechanic,Problem solving,15.0
+Sangli,Two-Wheeler Mechanic,Engine diagnostics,15.0
+Beed,Customer Support Associate,Basic computer literacy,15.0
+Chhatrapati Sambhajinagar,Accounts Assistant,Basic numeracy,15.0
+Kolhapur,Web Developer (Entry-level),English reading,15.0
+Mumbai City,Data Entry Operator,Typing speed,15.0
+Kolhapur,Web Developer (Entry-level),Logical thinking,15.0
+Chhatrapati Sambhajinagar,Electrician,Circuit testing,15.0
+Chhatrapati Sambhajinagar,Accounts Assistant,Record keeping,15.0
+Sangli,Accounts Assistant,Communication,15.0
+Amravati,Web Developer (Entry-level),English reading,15.0
+Satara,Web Developer (Entry-level),English reading,15.0
+Latur,Customer Support Associate,Communication,15.0
+Pune,Customer Support Associate,English reading,15.0
+Pune,Customer Support Associate,Patience,15.0
+Dhule,Web Developer (Entry-level),Basic computer literacy,15.0
+Thane,Web Developer (Entry-level),Basic computer literacy,15.0
+Dhule,Web Developer (Entry-level),HTML/CSS basics,15.0
+Satara,Web Developer (Entry-level),Logical thinking,15.0
+Satara,Two-Wheeler Mechanic,Engine diagnostics,15.0
+Thane,Field Sales Executive,Persuasion,14.0
+Latur,Field Sales Executive,Persuasion,14.0
+Thane,Food & Beverage Service Staff,Hygiene practices,14.0
+Ahmednagar,Solar Panel Installer,Basic wiring,14.0
+Akola,Retail Sales Associate,Basic billing,14.0
+Pune,Nursing Assistant,Patient care basics,14.0
+Beed,Electrical Wireman,Tool handling,14.0
+Nashik,Food & Beverage Service Staff,Teamwork,14.0
+Amravati,Welder,Tool handling,14.0
+Solapur,Food & Beverage Service Staff,Communication,14.0
+Kolhapur,Tailor / Fashion Designer,Creativity,14.0
+Mumbai Suburban,Food & Beverage Service Staff,Teamwork,14.0
+Pune,Nursing Assistant,Communication,14.0
+Sangli,CNC Machine Operator,Blueprint reading,14.0
+Mumbai City,Solar Panel Installer,Basic wiring,14.0
+Jalgaon,Solar Panel Installer,Basic wiring,14.0
+Ahmednagar,Field Sales Executive,Local travel willingness,14.0
+Satara,Retail Sales Associate,Customer handling,14.0
+Mumbai Suburban,Electrical Wireman,Basic wiring,14.0
+Solapur,Field Sales Executive,Target orientation,14.0
+Mumbai City,Solar Panel Installer,Working at heights,14.0
+Mumbai Suburban,Electrical Wireman,Safety protocols,14.0
+Akola,Retail Sales Associate,Customer handling,14.0
+Kolhapur,Electrical Wireman,Circuit testing,14.0
+Kolhapur,Retail Sales Associate,Basic billing,14.0
+Mumbai City,Nursing Assistant,Patient care basics,14.0
+Mumbai City,CNC Machine Operator,Precision measurement,14.0
+Ahmednagar,Welder,Safety protocols,14.0
+Satara,Tailor / Fashion Designer,Creativity,14.0
+Satara,Tailor / Fashion Designer,Stitching,14.0
+Sangli,Welder,Safety protocols,14.0
+Dhule,Solar Panel Installer,Working at heights,14.0
+Chhatrapati Sambhajinagar,Welder,Tool handling,14.0
+Satara,Solar Panel Installer,Safety protocols,14.0
+Nanded,Field Sales Executive,Communication,14.0
+Pune,Welder,Blueprint reading,14.0
+Sangli,Tailor / Fashion Designer,Pattern making,14.0
+Solapur,Field Sales Executive,Communication,14.0
+Nanded,Welder,Welding technique,14.0
+Nanded,Welder,Safety protocols,14.0
+Beed,Welder,Safety protocols,14.0
+Solapur,Electrical Wireman,Basic wiring,14.0
+Nanded,Welder,Blueprint reading,14.0
+Akola,Tailor / Fashion Designer,Creativity,14.0
+Thane,Field Sales Executive,Communication,14.0
+Nagpur,Electrical Wireman,Safety protocols,14.0
+Sangli,Retail Sales Associate,Inventory basics,14.0
+Jalgaon,Retail Sales Associate,Basic billing,14.0
+Latur,Food & Beverage Service Staff,Customer handling,14.0
+Nagpur,Solar Panel Installer,Basic wiring,14.0
+Mumbai Suburban,CNC Machine Operator,Precision measurement,14.0
+Kolhapur,Tailor / Fashion Designer,Stitching,14.0
+Sangli,Retail Sales Associate,Customer handling,14.0
+Thane,Nursing Assistant,Patient care basics,14.0
+Sangli,Nursing Assistant,Hygiene practices,14.0
+Sangli,Food & Beverage Service Staff,Customer handling,14.0
+Beed,Tailor / Fashion Designer,Creativity,14.0
+Beed,Tailor / Fashion Designer,Measurement,14.0
+Pune,Field Sales Executive,Local travel willingness,14.0
+Jalgaon,Field Sales Executive,Target orientation,14.0
+Latur,Tailor / Fashion Designer,Measurement,14.0
+Mumbai City,Retail Sales Associate,Communication,14.0
+Sangli,Retail Sales Associate,Communication,14.0
+Yavatmal,Solar Panel Installer,Basic wiring,14.0
+Pune,CNC Machine Operator,Precision measurement,14.0
+Mumbai Suburban,Welder,Blueprint reading,14.0
+Latur,Tailor / Fashion Designer,Stitching,14.0
+Latur,Nursing Assistant,Empathy,14.0
+Nanded,Solar Panel Installer,Safety protocols,14.0
+Ahmednagar,Nursing Assistant,Empathy,14.0
+Nanded,Nursing Assistant,Communication,14.0
+Mumbai City,Welder,Welding technique,14.0
+Sangli,Electrical Wireman,Safety protocols,14.0
+Sangli,Electrical Wireman,Circuit testing,14.0
+Pune,CNC Machine Operator,Blueprint reading,14.0
+Ahmednagar,Tailor / Fashion Designer,Measurement,14.0
+Ahmednagar,Tailor / Fashion Designer,Creativity,14.0
+Nagpur,Retail Sales Associate,Basic billing,14.0
+Amravati,Field Sales Executive,Target orientation,14.0
+Ahmednagar,Tailor / Fashion Designer,Pattern making,14.0
+Amravati,Field Sales Executive,Communication,14.0
+Akola,Electrical Wireman,Tool handling,14.0
+Thane,CNC Machine Operator,Safety protocols,14.0
+Satara,Retail Sales Associate,Communication,14.0
+Satara,Retail Sales Associate,Inventory basics,14.0
+Sangli,CNC Machine Operator,Precision measurement,14.0
+Satara,Customer Support Associate,English reading,12.0
+Amravati,Retail Sales Associate,Inventory basics,12.0
+Amravati,Retail Sales Associate,Communication,12.0
+Mumbai Suburban,Electrical Wireman,Circuit testing,12.0
+Thane,Field Sales Executive,Target orientation,12.0
+Jalgaon,Electrical Wireman,Basic wiring,12.0
+Satara,Web Developer (Entry-level),Basic computer literacy,12.0
+Sangli,CNC Machine Operator,Safety protocols,12.0
+Latur,Nursing Assistant,Patient care basics,12.0
+Yavatmal,Welder,Welding technique,12.0
+Satara,Retail Sales Associate,Basic billing,12.0
+Beed,Web Developer (Entry-level),HTML/CSS basics,12.0
+Solapur,Electrical Wireman,Tool handling,12.0
+Solapur,Electrical Wireman,Circuit testing,12.0
+Satara,Customer Support Associate,Patience,12.0
+Satara,Customer Support Associate,Communication,12.0
+Thane,Web Developer (Entry-level),English reading,12.0
+Satara,Welder,Welding technique,12.0
+Sangli,Two-Wheeler Mechanic,Problem solving,12.0
+Thane,Solar Panel Installer,Working at heights,12.0
+Thane,Solar Panel Installer,Basic wiring,12.0
+Nanded,Retail Sales Associate,Communication,12.0
+Pune,Tailor / Fashion Designer,Pattern making,12.0
+Nanded,Solar Panel Installer,Tool handling,12.0
+Beed,Web Developer (Entry-level),Logical thinking,12.0
+Chhatrapati Sambhajinagar,Accounts Assistant,Tally software,12.0
+Nagpur,Field Sales Executive,Communication,12.0
+Thane,Accounts Assistant,Communication,12.0
+Yavatmal,Food & Beverage Service Staff,Teamwork,12.0
+Ahmednagar,Solar Panel Installer,Tool handling,12.0
+Ahmednagar,Solar Panel Installer,Working at heights,12.0
+Nagpur,Retail Sales Associate,Customer handling,12.0
+Thane,Food & Beverage Service Staff,Communication,12.0
+Jalgaon,Tailor / Fashion Designer,Pattern making,12.0
+Jalgaon,Tailor / Fashion Designer,Measurement,12.0
+Mumbai City,Field Sales Executive,Target orientation,12.0
+Amravati,Field Sales Executive,Local travel willingness,12.0
+Akola,Electrical Wireman,Safety protocols,12.0
+Amravati,Food & Beverage Service Staff,Hygiene practices,12.0
+Amravati,Welder,Safety protocols,12.0
+Amravati,Food & Beverage Service Staff,Customer handling,12.0
+Dhule,Solar Panel Installer,Basic wiring,12.0
+Chhatrapati Sambhajinagar,Data Entry Operator,Attention to detail,12.0
+Thane,Nursing Assistant,Communication,12.0
+Beed,Nursing Assistant,Patient care basics,12.0
+Beed,Tailor / Fashion Designer,Stitching,12.0
+Amravati,Nursing Assistant,Patient care basics,12.0
+Amravati,Nursing Assistant,Empathy,12.0
+Latur,Nursing Assistant,Hygiene practices,12.0
+Nashik,Automobile Technician,Tool handling,12.0
+Nanded,Electrical Wireman,Basic wiring,12.0
+Chhatrapati Sambhajinagar,Customer Support Associate,Patience,12.0
+Chhatrapati Sambhajinagar,Customer Support Associate,Communication,12.0
+Kolhapur,Field Sales Executive,Persuasion,12.0
+Nashik,Retail Sales Associate,Basic billing,12.0
+Ahmednagar,Food & Beverage Service Staff,Teamwork,12.0
+Satara,Electrical Wireman,Safety protocols,12.0
+Chhatrapati Sambhajinagar,Nursing Assistant,Patient care basics,12.0
+Pune,Retail Sales Associate,Basic billing,12.0
+Pune,Customer Support Associate,Communication,12.0
+Pune,Customer Support Associate,Basic computer literacy,12.0
+Pune,Retail Sales Associate,Communication,12.0
+Dhule,Food & Beverage Service Staff,Hygiene practices,12.0
+Thane,Customer Support Associate,Patience,12.0
+Thane,Customer Support Associate,Communication,12.0
+Nashik,Solar Panel Installer,Tool handling,12.0
+Nashik,Solar Panel Installer,Safety protocols,12.0
+Thane,Customer Support Associate,English reading,12.0
+Sangli,Food & Beverage Service Staff,Teamwork,12.0
+Satara,Field Sales Executive,Persuasion,12.0
+Mumbai Suburban,Welder,Tool handling,12.0
+Mumbai Suburban,Welder,Welding technique,12.0
+Akola,Tailor / Fashion Designer,Measurement,12.0
+Pune,Field Sales Executive,Communication,12.0
+Beed,Food & Beverage Service Staff,Teamwork,12.0
+Beed,Food & Beverage Service Staff,Hygiene practices,12.0
+Mumbai City,Retail Sales Associate,Customer handling,12.0
+Sangli,Two-Wheeler Mechanic,Safety protocols,12.0
+Yavatmal,Two-Wheeler Mechanic,Problem solving,12.0
+Chhatrapati Sambhajinagar,Accounts Assistant,Communication,12.0
+Sangli,Solar Panel Installer,Working at heights,12.0
+Sangli,Solar Panel Installer,Basic wiring,12.0
+Sangli,Solar Panel Installer,Safety protocols,12.0
+Jalgaon,Retail Sales Associate,Inventory basics,12.0
+Jalgaon,Retail Sales Associate,Communication,12.0
+Latur,Electrical Wireman,Circuit testing,12.0
+Latur,Electrical Wireman,Safety protocols,12.0
+Mumbai Suburban,Field Sales Executive,Local travel willingness,12.0
+Nagpur,Customer Support Associate,Communication,12.0
+Kolhapur,Tailor / Fashion Designer,Pattern making,12.0
+Solapur,Welder,Tool handling,12.0
+Solapur,Welder,Safety protocols,12.0
+Thane,Nursing Assistant,Empathy,12.0
+Latur,Field Sales Executive,Communication,12.0
+Dhule,CNC Machine Operator,Precision measurement,12.0
+Nagpur,Nursing Assistant,Hygiene practices,12.0
+Beed,Retail Sales Associate,Basic billing,12.0
+Beed,Retail Sales Associate,Inventory basics,12.0
+Solapur,Nursing Assistant,Hygiene practices,12.0
+Solapur,Nursing Assistant,Patient care basics,12.0
+Solapur,Nursing Assistant,Empathy,12.0
+Pune,Food & Beverage Service Staff,Teamwork,12.0
+Pune,Food & Beverage Service Staff,Communication,12.0
+Satara,Electrical Wireman,Tool handling,12.0
+Mumbai Suburban,Food & Beverage Service Staff,Hygiene practices,12.0
+Mumbai Suburban,Food & Beverage Service Staff,Communication,12.0
+Akola,Field Sales Executive,Communication,12.0
+Satara,Solar Panel Installer,Tool handling,12.0
+Satara,Solar Panel Installer,Working at heights,12.0
+Dhule,Tailor / Fashion Designer,Creativity,12.0
+Dhule,Tailor / Fashion Designer,Stitching,12.0
+Pune,Welder,Tool handling,12.0
+Sangli,Tailor / Fashion Designer,Measurement,12.0
+Sangli,Tailor / Fashion Designer,Stitching,12.0
+Solapur,Food & Beverage Service Staff,Customer handling,12.0
+Akola,Retail Sales Associate,Communication,12.0
+Chhatrapati Sambhajinagar,Two-Wheeler Mechanic,Tool handling,12.0
+Nagpur,Customer Support Associate,Basic computer literacy,12.0
+Nanded,Nursing Assistant,Patient care basics,12.0
+Yavatmal,Food & Beverage Service Staff,Hygiene practices,12.0
+Yavatmal,Food & Beverage Service Staff,Customer handling,12.0
+Nashik,Food & Beverage Service Staff,Hygiene practices,12.0
+Beed,Electrical Wireman,Safety protocols,12.0
+Pune,Field Sales Executive,Target orientation,12.0
+Akola,Customer Support Associate,English reading,12.0
+Amravati,CNC Machine Operator,Safety protocols,12.0
+Mumbai City,Welder,Safety protocols,12.0
+Chhatrapati Sambhajinagar,Field Sales Executive,Local travel willingness,12.0
+Chhatrapati Sambhajinagar,Field Sales Executive,Persuasion,12.0
+Chhatrapati Sambhajinagar,Field Sales Executive,Target orientation,10.0
+Amravati,Retail Sales Associate,Basic billing,10.0
+Mumbai City,Welder,Tool handling,10.0
+Yavatmal,Electrical Wireman,Basic wiring,10.0
+Yavatmal,Electrical Wireman,Circuit testing,10.0
+Chhatrapati Sambhajinagar,Welder,Safety protocols,10.0
+Beed,Nursing Assistant,Hygiene practices,10.0
+Ahmednagar,Retail Sales Associate,Customer handling,10.0
+Nanded,Food & Beverage Service Staff,Hygiene practices,10.0
+Beed,Welder,Tool handling,10.0
+Ahmednagar,Solar Panel Installer,Safety protocols,10.0
+Mumbai Suburban,CNC Machine Operator,Safety protocols,10.0
+Chhatrapati Sambhajinagar,Tailor / Fashion Designer,Pattern making,10.0
+Jalgaon,Solar Panel Installer,Tool handling,10.0
+Mumbai City,Field Sales Executive,Local travel willingness,10.0
+Latur,Food & Beverage Service Staff,Teamwork,10.0
+Mumbai City,Food & Beverage Service Staff,Customer handling,10.0
+Mumbai City,Food & Beverage Service Staff,Communication,10.0
+Mumbai City,Food & Beverage Service Staff,Hygiene practices,10.0
+Amravati,Nursing Assistant,Hygiene practices,10.0
+Beed,Tailor / Fashion Designer,Pattern making,10.0
+Jalgaon,Electrical Wireman,Safety protocols,10.0
+Amravati,Tailor / Fashion Designer,Measurement,10.0
+Mumbai Suburban,Welder,Safety protocols,10.0
+Ahmednagar,Field Sales Executive,Communication,10.0
+Satara,Welder,Blueprint reading,10.0
+Ahmednagar,Food & Beverage Service Staff,Communication,10.0
+Nanded,Food & Beverage Service Staff,Teamwork,10.0
+Kolhapur,Field Sales Executive,Target orientation,10.0
+Dhule,Nursing Assistant,Communication,10.0
+Latur,Tailor / Fashion Designer,Pattern making,10.0
+Jalgaon,Tailor / Fashion Designer,Stitching,10.0
+Jalgaon,Tailor / Fashion Designer,Creativity,10.0
+Yavatmal,Solar Panel Installer,Safety protocols,10.0
+Amravati,Nursing Assistant,Communication,10.0
+Mumbai Suburban,Tailor / Fashion Designer,Pattern making,10.0
+Nanded,Nursing Assistant,Hygiene practices,10.0
+Kolhapur,Field Sales Executive,Communication,10.0
+Beed,Retail Sales Associate,Customer handling,10.0
+Satara,Electrical Wireman,Basic wiring,10.0
+Mumbai Suburban,Nursing Assistant,Empathy,10.0
+Mumbai Suburban,Nursing Assistant,Patient care basics,10.0
+Dhule,Food & Beverage Service Staff,Customer handling,10.0
+Dhule,Food & Beverage Service Staff,Teamwork,10.0
+Sangli,Electrical Wireman,Basic wiring,10.0
+Nagpur,Nursing Assistant,Empathy,10.0
+Yavatmal,Retail Sales Associate,Inventory basics,10.0
+Satara,Solar Panel Installer,Basic wiring,10.0
+Pune,Tailor / Fashion Designer,Measurement,10.0
+Yavatmal,Solar Panel Installer,Tool handling,10.0
+Latur,Food & Beverage Service Staff,Communication,10.0
+Latur,Food & Beverage Service Staff,Hygiene practices,10.0
+Nagpur,Food & Beverage Service Staff,Hygiene practices,10.0
+Dhule,CNC Machine Operator,Safety protocols,10.0
+Thane,Retail Sales Associate,Inventory basics,10.0
+Thane,Retail Sales Associate,Basic billing,10.0
+Nanded,Retail Sales Associate,Customer handling,10.0
+Akola,Solar Panel Installer,Basic wiring,10.0
+Akola,Solar Panel Installer,Working at heights,10.0
+Akola,Solar Panel Installer,Tool handling,10.0
+Thane,Solar Panel Installer,Safety protocols,10.0
+Kolhapur,Electrical Wireman,Safety protocols,10.0
+Kolhapur,Electrical Wireman,Tool handling,10.0
+Jalgaon,Solar Panel Installer,Working at heights,10.0
+Jalgaon,Electrical Wireman,Circuit testing,10.0
+Beed,Field Sales Executive,Persuasion,10.0
+Beed,Field Sales Executive,Target orientation,10.0
+Latur,Electrical Wireman,Basic wiring,10.0
+Mumbai Suburban,Food & Beverage Service Staff,Customer handling,10.0
+Sangli,Welder,Welding technique,10.0
+Jalgaon,Retail Sales Associate,Customer handling,10.0
+Nagpur,Nursing Assistant,Patient care basics,10.0
+Thane,Nursing Assistant,Hygiene practices,10.0
+Satara,Food & Beverage Service Staff,Communication,10.0
+Satara,Food & Beverage Service Staff,Hygiene practices,10.0
+Ahmednagar,Tailor / Fashion Designer,Stitching,10.0
+Nashik,Retail Sales Associate,Communication,10.0
+Beed,Food & Beverage Service Staff,Customer handling,10.0
+Beed,Food & Beverage Service Staff,Communication,10.0
+Sangli,Welder,Tool handling,10.0
+Thane,Electrical Wireman,Circuit testing,10.0
+Nanded,Plumber,Pipefitting,10.0
+Pune,Solar Panel Installer,Working at heights,10.0
+Amravati,Electrical Wireman,Safety protocols,10.0
+Amravati,Electrical Wireman,Circuit testing,10.0
+Nashik,Food & Beverage Service Staff,Customer handling,10.0
+Kolhapur,Customer Support Associate,Communication,9.0
+Chhatrapati Sambhajinagar,Web Developer (Entry-level),Logical thinking,9.0
+Chhatrapati Sambhajinagar,Web Developer (Entry-level),Basic computer literacy,9.0
+Yavatmal,Customer Support Associate,Basic computer literacy,9.0
+Chhatrapati Sambhajinagar,Data Entry Operator,Typing speed,9.0
+Chhatrapati Sambhajinagar,Data Entry Operator,Basic computer literacy,9.0
+Chhatrapati Sambhajinagar,Two-Wheeler Mechanic,Problem solving,9.0
+Amravati,Customer Support Associate,Communication,9.0
+Chhatrapati Sambhajinagar,Data Entry Operator,MS Excel,9.0
+Beed,Web Developer (Entry-level),English reading,9.0
+Nanded,Plumber,Measurement,9.0
+Beed,Accounts Assistant,Record keeping,9.0
+Akola,Beautician,Hygiene practices,9.0
+Yavatmal,Baker,Creativity,9.0
+Amravati,Electrical Wireman,Basic wiring,8.0
+Amravati,Food & Beverage Service Staff,Communication,8.0
+Chhatrapati Sambhajinagar,Retail Sales Associate,Customer handling,8.0
+Pune,Solar Panel Installer,Basic wiring,8.0
+Pune,Solar Panel Installer,Safety protocols,8.0
+Dhule,Field Sales Executive,Target orientation,8.0
+Satara,Welder,Safety protocols,8.0
+Jalgaon,Electrical Wireman,Tool handling,8.0
+Beed,Field Sales Executive,Local travel willingness,8.0
+Satara,Beautician,Styling technique,8.0
+Nagpur,Field Sales Executive,Persuasion,8.0
+Nanded,Electrical Wireman,Safety protocols,8.0
+Pune,Solar Panel Installer,Tool handling,8.0
+Solapur,Retail Sales Associate,Communication,8.0
+Nagpur,Tailor / Fashion Designer,Measurement,8.0
+Thane,Field Sales Executive,Local travel willingness,8.0
+Chhatrapati Sambhajinagar,CNC Machine Operator,Precision measurement,8.0
+Mumbai City,Solar Panel Installer,Safety protocols,8.0
+Dhule,Tailor / Fashion Designer,Measurement,8.0
+Beed,Retail Sales Associate,Communication,8.0
+Sangli,Baker,Recipe following,8.0
+Pune,Electrical Wireman,Safety protocols,8.0
+Pune,Electrical Wireman,Circuit testing,8.0
+Thane,Retail Sales Associate,Communication,8.0
+Thane,Solar Panel Installer,Tool handling,8.0
+Yavatmal,Nursing Assistant,Patient care basics,8.0
+Mumbai Suburban,Solar Panel Installer,Tool handling,8.0
+Yavatmal,Nursing Assistant,Hygiene practices,8.0
+Solapur,Beautician,Hygiene practices,8.0
+Nanded,Electrical Wireman,Circuit testing,8.0
+Kolhapur,Food & Beverage Service Staff,Hygiene practices,8.0
+Thane,Electrical Wireman,Safety protocols,8.0
+Thane,Electrical Wireman,Basic wiring,8.0
+Pune,Retail Sales Associate,Customer handling,8.0
+Sangli,Electrical Wireman,Tool handling,8.0
+Jalgaon,Food & Beverage Service Staff,Customer handling,8.0
+Jalgaon,Food & Beverage Service Staff,Hygiene practices,8.0
+Dhule,Retail Sales Associate,Inventory basics,8.0
+Chhatrapati Sambhajinagar,Tailor / Fashion Designer,Measurement,8.0
+Kolhapur,Food & Beverage Service Staff,Teamwork,8.0
+Nagpur,Beautician,Product knowledge,8.0
+Ahmednagar,Baker,Hygiene practices,8.0
+Nashik,Nursing Assistant,Patient care basics,8.0
+Satara,Welder,Tool handling,8.0
+Beed,Nursing Assistant,Empathy,8.0
+Chhatrapati Sambhajinagar,Welder,Welding technique,8.0
+Nanded,Food & Beverage Service Staff,Communication,8.0
+Ahmednagar,Retail Sales Associate,Basic billing,8.0
+Mumbai Suburban,Electrical Wireman,Tool handling,8.0
+Mumbai City,Electrical Wireman,Basic wiring,8.0
+Latur,Baker,Recipe following,8.0
+Latur,Tailor / Fashion Designer,Creativity,8.0
+Latur,Electrical Wireman,Tool handling,8.0
+Satara,Field Sales Executive,Communication,8.0
+Amravati,Tailor / Fashion Designer,Stitching,8.0
+Satara,Nursing Assistant,Empathy,8.0
+Nagpur,Nursing Assistant,Communication,8.0
+Latur,Solar Panel Installer,Safety protocols,8.0
+Dhule,Electrical Wireman,Circuit testing,8.0
+Mumbai Suburban,Nursing Assistant,Hygiene practices,8.0
+Latur,Solar Panel Installer,Working at heights,8.0
+Dhule,Tailor / Fashion Designer,Pattern making,8.0
+Dhule,Electrical Wireman,Basic wiring,8.0
+Nagpur,Field Sales Executive,Target orientation,8.0
+Nanded,Welder,Tool handling,8.0
+Nagpur,Field Sales Executive,Local travel willingness,8.0
+Satara,Nursing Assistant,Communication,8.0
+Chhatrapati Sambhajinagar,Nursing Assistant,Empathy,8.0
+Solapur,Nursing Assistant,Communication,8.0
+Jalgaon,Baker,Creativity,8.0
+Pune,Food & Beverage Service Staff,Customer handling,8.0
+Mumbai City,Field Sales Executive,Communication,8.0
+Yavatmal,Baker,Recipe following,8.0
+Chhatrapati Sambhajinagar,Food & Beverage Service Staff,Hygiene practices,8.0
+Satara,Beautician,Product knowledge,8.0
+Chhatrapati Sambhajinagar,CNC Machine Operator,Machine operation,8.0
+Chhatrapati Sambhajinagar,CNC Machine Operator,Blueprint reading,8.0
+Solapur,Retail Sales Associate,Basic billing,8.0
+Nagpur,Solar Panel Installer,Safety protocols,8.0
+Satara,Food & Beverage Service Staff,Teamwork,8.0
+Solapur,Retail Sales Associate,Inventory basics,8.0
+Mumbai Suburban,Solar Panel Installer,Working at heights,8.0
+Mumbai Suburban,Solar Panel Installer,Safety protocols,8.0
+Amravati,Electrical Wireman,Tool handling,8.0
+Ahmednagar,Retail Sales Associate,Communication,8.0
+Ahmednagar,Retail Sales Associate,Inventory basics,8.0
+Amravati,Retail Sales Associate,Customer handling,8.0
+Mumbai Suburban,Retail Sales Associate,Inventory basics,8.0
+Yavatmal,Electrical Wireman,Safety protocols,8.0
+Mumbai Suburban,Retail Sales Associate,Communication,8.0
+Dhule,Solar Panel Installer,Tool handling,8.0
+Nanded,Field Sales Executive,Local travel willingness,8.0
+Mumbai Suburban,Tailor / Fashion Designer,Creativity,8.0
+Solapur,Beautician,Styling technique,8.0
+Solapur,Beautician,Product knowledge,8.0
+Sangli,Baker,Hygiene practices,8.0
+Pune,Food & Beverage Service Staff,Hygiene practices,8.0
+Nanded,Electrical Wireman,Tool handling,8.0
+Jalgaon,Beautician,Product knowledge,8.0
+Satara,Food & Beverage Service Staff,Customer handling,8.0
+Mumbai City,Field Sales Executive,Persuasion,8.0
+Amravati,Tailor / Fashion Designer,Pattern making,8.0
+Nashik,Baker,Hygiene practices,7.0
+Pune,Beautician,Customer handling,7.0
+Jalgaon,Baker,Time management,7.0
+Akola,Beautician,Styling technique,7.0
+Beed,Plumber,Measurement,7.0
+Yavatmal,Baker,Hygiene practices,7.0
+Ahmednagar,Baker,Time management,7.0
+Jalgaon,Beautician,Hygiene practices,7.0
+Nashik,Baker,Time management,7.0
+Solapur,Beautician,Customer handling,7.0
+Nagpur,Beautician,Hygiene practices,7.0
+Nagpur,Beautician,Styling technique,7.0
+Beed,Plumber,Pipefitting,7.0
+Ahmednagar,Baker,Recipe following,7.0
+Nagpur,Beautician,Customer handling,7.0
+Pune,Beautician,Styling technique,7.0
+Ahmednagar,Plumber,Pipefitting,7.0
+Pune,Beautician,Product knowledge,7.0
+Pune,Beautician,Hygiene practices,7.0
+Nanded,Plumber,Tool handling,7.0
+Dhule,Electrical Wireman,Safety protocols,6.0
+Latur,Retail Sales Associate,Inventory basics,6.0
+Nashik,Food & Beverage Service Staff,Communication,6.0
+Nashik,Retail Sales Associate,Customer handling,6.0
+Nashik,Retail Sales Associate,Inventory basics,6.0
+Solapur,Retail Sales Associate,Customer handling,6.0
+Thane,Accounts Assistant,Basic numeracy,6.0
+Latur,Retail Sales Associate,Customer handling,6.0
+Nashik,Beautician,Styling technique,6.0
+Chhatrapati Sambhajinagar,Retail Sales Associate,Communication,6.0
+Chhatrapati Sambhajinagar,Retail Sales Associate,Inventory basics,6.0
+Kolhapur,Customer Support Associate,Basic computer literacy,6.0
+Nagpur,Tailor / Fashion Designer,Stitching,6.0
+Satara,Customer Support Associate,Basic computer literacy,6.0
+Nanded,Beautician,Product knowledge,6.0
+Nagpur,Tailor / Fashion Designer,Pattern making,6.0
+Amravati,Food & Beverage Service Staff,Teamwork,6.0
+Chhatrapati Sambhajinagar,Retail Sales Associate,Basic billing,6.0
+Nagpur,Food & Beverage Service Staff,Teamwork,6.0
+Amravati,Solar Panel Installer,Tool handling,6.0
+Kolhapur,Retail Sales Associate,Communication,6.0
+Mumbai Suburban,Solar Panel Installer,Basic wiring,6.0
+Akola,Beautician,Customer handling,6.0
+Chhatrapati Sambhajinagar,Web Developer (Entry-level),English reading,6.0
+Kolhapur,Beautician,Styling technique,6.0
+Dhule,Field Sales Executive,Local travel willingness,6.0
+Dhule,Field Sales Executive,Persuasion,6.0
+Beed,Nursing Assistant,Communication,6.0
+Beed,Accounts Assistant,Tally software,6.0
+Latur,Nursing Assistant,Communication,6.0
+Nashik,Nursing Assistant,Hygiene practices,6.0
+Akola,Solar Panel Installer,Safety protocols,6.0
+Satara,Plumber,Measurement,6.0
+Satara,Plumber,Pipefitting,6.0
+Nagpur,Food & Beverage Service Staff,Communication,6.0
+Nashik,Plumber,Measurement,6.0
+Pune,Electrical Wireman,Basic wiring,6.0
+Ahmednagar,Plumber,Measurement,6.0
+Satara,Beautician,Hygiene practices,6.0
+Ahmednagar,Plumber,Safety protocols,6.0
+Dhule,Retail Sales Associate,Communication,6.0
+Dhule,Retail Sales Associate,Customer handling,6.0
+Dhule,Field Sales Executive,Communication,6.0
+Akola,Baker,Recipe following,6.0
+Pune,Electrical Wireman,Tool handling,6.0
+Chhatrapati Sambhajinagar,Web Developer (Entry-level),HTML/CSS basics,6.0
+Thane,Electrical Wireman,Tool handling,6.0
+Amravati,Solar Panel Installer,Basic wiring,6.0
+Amravati,Solar Panel Installer,Working at heights,6.0
+Kolhapur,Field Sales Executive,Local travel willingness,6.0
+Sangli,Baker,Time management,6.0
+Yavatmal,Nursing Assistant,Empathy,6.0
+Pune,Tailor / Fashion Designer,Creativity,6.0
+Amravati,Tailor / Fashion Designer,Creativity,6.0
+Pune,Tailor / Fashion Designer,Stitching,6.0
+Pune,CNC Machine Operator,Safety protocols,6.0
+Pune,CNC Machine Operator,Machine operation,6.0
+Latur,Solar Panel Installer,Basic wiring,6.0
+Chhatrapati Sambhajinagar,Food & Beverage Service Staff,Communication,6.0
+Beed,Solar Panel Installer,Working at heights,6.0
+Jalgaon,Beautician,Styling technique,6.0
+Chhatrapati Sambhajinagar,Nursing Assistant,Hygiene practices,6.0
+Mumbai City,Food & Beverage Service Staff,Teamwork,6.0
+Chhatrapati Sambhajinagar,Nursing Assistant,Communication,6.0
+Nashik,Baker,Recipe following,6.0
+Chhatrapati Sambhajinagar,Electrical Wireman,Basic wiring,6.0
+Sangli,Tailor / Fashion Designer,Creativity,6.0
+Beed,Accounts Assistant,Basic numeracy,6.0
+Solapur,Solar Panel Installer,Basic wiring,6.0
+Yavatmal,Baker,Time management,6.0
+Solapur,Solar Panel Installer,Working at heights,6.0
+Chhatrapati Sambhajinagar,Field Sales Executive,Communication,6.0
+Mumbai City,Electrical Wireman,Circuit testing,6.0
+Jalgaon,Food & Beverage Service Staff,Communication,6.0
+Jalgaon,Baker,Recipe following,6.0
+Chhatrapati Sambhajinagar,Tailor / Fashion Designer,Stitching,6.0
+Chhatrapati Sambhajinagar,Tailor / Fashion Designer,Creativity,6.0
+Akola,Baker,Hygiene practices,6.0
+Latur,Baker,Time management,6.0
+Mumbai City,Electrical Wireman,Tool handling,6.0
+Chhatrapati Sambhajinagar,Customer Support Associate,English reading,6.0
+Mumbai City,Electrical Wireman,Safety protocols,6.0
+Nanded,Plumber,Safety protocols,6.0
+Dhule,Food & Beverage Service Staff,Communication,6.0
+Jalgaon,Food & Beverage Service Staff,Teamwork,6.0
+Thane,Retail Sales Associate,Customer handling,6.0
+Nashik,Nursing Assistant,Empathy,6.0
+Ahmednagar,Baker,Creativity,6.0
+Yavatmal,Electrical Wireman,Tool handling,6.0
+Dhule,Retail Sales Associate,Basic billing,6.0
+Latur,Retail Sales Associate,Basic billing,6.0
+Dhule,Plumber,Safety protocols,5.0
+Solapur,Baker,Creativity,5.0
+Akola,Baker,Creativity,5.0
+Akola,Beautician,Product knowledge,5.0
+Beed,Plumber,Tool handling,5.0
+Solapur,Baker,Recipe following,5.0
+Nashik,Beautician,Customer handling,5.0
+Thane,Plumber,Safety protocols,5.0
+Mumbai City,Plumber,Measurement,5.0
+Nagpur,Baker,Time management,5.0
+Nagpur,Baker,Recipe following,5.0
+Ahmednagar,Beautician,Product knowledge,5.0
+Ahmednagar,Beautician,Customer handling,5.0
+Ahmednagar,Beautician,Hygiene practices,5.0
+Solapur,Plumber,Pipefitting,5.0
+Solapur,Plumber,Measurement,5.0
+Satara,Beautician,Customer handling,5.0
+Jalgaon,Beautician,Customer handling,5.0
+Kolhapur,Beautician,Hygiene practices,5.0
+Kolhapur,Beautician,Product knowledge,5.0
+Mumbai City,Beautician,Styling technique,5.0
+Nashik,Beautician,Hygiene practices,5.0
+Nashik,Plumber,Pipefitting,5.0
+Sangli,Beautician,Hygiene practices,5.0
+Jalgaon,Baker,Hygiene practices,5.0
+Mumbai City,Plumber,Tool handling,5.0
+Akola,Baker,Time management,5.0
+Nagpur,Plumber,Measurement,4.0
+Akola,Plumber,Pipefitting,4.0
+Nagpur,Plumber,Pipefitting,4.0
+Jalgaon,Nursing Assistant,Communication,4.0
+Solapur,Plumber,Safety protocols,4.0
+Satara,Nursing Assistant,Patient care basics,4.0
+Satara,Nursing Assistant,Hygiene practices,4.0
+Solapur,Solar Panel Installer,Tool handling,4.0
+Kolhapur,Baker,Time management,4.0
+Nagpur,Plumber,Safety protocols,4.0
+Beed,Solar Panel Installer,Basic wiring,4.0
+Solapur,Baker,Time management,4.0
+Pune,Baker,Recipe following,4.0
+Mumbai City,Plumber,Pipefitting,4.0
+Satara,Baker,Time management,4.0
+Pune,Baker,Time management,4.0
+Thane,Baker,Hygiene practices,4.0
+Mumbai Suburban,Tailor / Fashion Designer,Measurement,4.0
+Satara,Plumber,Tool handling,4.0
+Nanded,Food & Beverage Service Staff,Customer handling,4.0
+Mumbai Suburban,Plumber,Pipefitting,4.0
+Thane,Plumber,Tool handling,4.0
+Beed,Solar Panel Installer,Safety protocols,4.0
+Beed,Solar Panel Installer,Tool handling,4.0
+Chhatrapati Sambhajinagar,CNC Machine Operator,Safety protocols,4.0
+Mumbai City,Solar Panel Installer,Tool handling,4.0
+Nagpur,Baker,Hygiene practices,4.0
+Chhatrapati Sambhajinagar,Beautician,Customer handling,4.0
+Latur,Plumber,Safety protocols,4.0
+Latur,Plumber,Pipefitting,4.0
+Sangli,Beautician,Customer handling,4.0
+Yavatmal,Plumber,Pipefitting,4.0
+Chhatrapati Sambhajinagar,Solar Panel Installer,Safety protocols,4.0
+Chhatrapati Sambhajinagar,Beautician,Styling technique,4.0
+Solapur,Solar Panel Installer,Safety protocols,4.0
+Latur,Beautician,Customer handling,4.0
+Beed,Field Sales Executive,Communication,4.0
+Ahmednagar,Beautician,Styling technique,4.0
+Mumbai City,Beautician,Customer handling,4.0
+Nashik,Plumber,Tool handling,4.0
+Ahmednagar,Plumber,Tool handling,4.0
+Jalgaon,Nursing Assistant,Hygiene practices,4.0
+Thane,Baker,Time management,4.0
+Mumbai Suburban,Retail Sales Associate,Basic billing,4.0
+Kolhapur,Nursing Assistant,Empathy,4.0
+Mumbai Suburban,Retail Sales Associate,Customer handling,4.0
+Nanded,Beautician,Styling technique,4.0
+Latur,Beautician,Hygiene practices,4.0
+Nanded,Beautician,Customer handling,4.0
+Pune,Baker,Creativity,4.0
+Dhule,Plumber,Measurement,4.0
+Latur,Baker,Hygiene practices,4.0
+Solapur,Baker,Hygiene practices,4.0
+Mumbai Suburban,Beautician,Styling technique,4.0
+Kolhapur,Food & Beverage Service Staff,Customer handling,4.0
+Nashik,Nursing Assistant,Communication,4.0
+Mumbai Suburban,Nursing Assistant,Communication,4.0
+Latur,Beautician,Product knowledge,4.0
+Dhule,Baker,Recipe following,4.0
+Dhule,Baker,Time management,4.0
+Kolhapur,Nursing Assistant,Hygiene practices,4.0
+Kolhapur,Nursing Assistant,Patient care basics,4.0
+Nagpur,Food & Beverage Service Staff,Customer handling,4.0
+Dhule,Plumber,Pipefitting,4.0
+Yavatmal,Nursing Assistant,Communication,4.0
+Mumbai Suburban,Plumber,Tool handling,4.0
+Thane,Beautician,Styling technique,4.0
+Thane,Plumber,Pipefitting,4.0
+Latur,Solar Panel Installer,Tool handling,4.0
+Sangli,Baker,Creativity,4.0
+Amravati,Solar Panel Installer,Safety protocols,4.0
+Chhatrapati Sambhajinagar,Electrical Wireman,Tool handling,4.0
+Chhatrapati Sambhajinagar,Electrical Wireman,Safety protocols,4.0
+Nashik,Plumber,Safety protocols,4.0
+Latur,Baker,Creativity,4.0
+Kolhapur,Plumber,Safety protocols,4.0
+Mumbai City,Beautician,Product knowledge,4.0
+Thane,Plumber,Measurement,4.0
+Chhatrapati Sambhajinagar,Solar Panel Installer,Working at heights,4.0
+Sangli,Beautician,Product knowledge,4.0
+Chhatrapati Sambhajinagar,Solar Panel Installer,Basic wiring,4.0
+Thane,Baker,Creativity,3.0
+Kolhapur,Plumber,Pipefitting,3.0
+Akola,Plumber,Tool handling,3.0
+Mumbai City,Plumber,Safety protocols,3.0
+Kolhapur,Plumber,Measurement,3.0
+Chhatrapati Sambhajinagar,Beautician,Product knowledge,3.0
+Chhatrapati Sambhajinagar,Baker,Time management,3.0
+Dhule,Beautician,Product knowledge,3.0
+Dhule,Beautician,Hygiene practices,3.0
+Mumbai Suburban,Plumber,Measurement,3.0
+Thane,Baker,Recipe following,3.0
+Yavatmal,Plumber,Safety protocols,3.0
+Thane,Customer Support Associate,Basic computer literacy,3.0
+Beed,Plumber,Safety protocols,3.0
+Nanded,Beautician,Hygiene practices,3.0
+Nagpur,Plumber,Tool handling,3.0
+Kolhapur,Baker,Recipe following,3.0
+Nagpur,Baker,Creativity,3.0
+Akola,Plumber,Measurement,3.0
+Dhule,Baker,Creativity,3.0
+Dhule,Baker,Hygiene practices,3.0
+Nashik,Baker,Creativity,3.0
+Pune,Plumber,Measurement,3.0
+Kolhapur,Baker,Hygiene practices,3.0
+Yavatmal,Plumber,Measurement,3.0
+Mumbai City,Baker,Hygiene practices,3.0
+Kolhapur,Plumber,Tool handling,3.0
+Latur,Plumber,Tool handling,3.0
+Latur,Plumber,Measurement,3.0
+Latur,Beautician,Styling technique,3.0
+Chhatrapati Sambhajinagar,Baker,Hygiene practices,3.0
+Mumbai City,Beautician,Hygiene practices,3.0
+Jalgaon,Plumber,Tool handling,3.0
+Satara,Plumber,Safety protocols,3.0
+Beed,Accounts Assistant,Communication,3.0
+Jalgaon,Plumber,Measurement,3.0
+Jalgaon,Plumber,Pipefitting,3.0
+Thane,Beautician,Hygiene practices,3.0
+Thane,Beautician,Customer handling,3.0
+Sangli,Beautician,Styling technique,3.0
+Satara,Baker,Hygiene practices,3.0
+Beed,Beautician,Hygiene practices,3.0
+Beed,Beautician,Styling technique,3.0
+Mumbai Suburban,Beautician,Hygiene practices,3.0
+Mumbai Suburban,Beautician,Product knowledge,3.0
+Yavatmal,Beautician,Styling technique,3.0
+Yavatmal,Beautician,Customer handling,3.0
+Nashik,Beautician,Product knowledge,3.0
+Pune,Plumber,Tool handling,2.0
+Jalgaon,Solar Panel Installer,Safety protocols,2.0
+Chhatrapati Sambhajinagar,Beautician,Hygiene practices,2.0
+Mumbai Suburban,Plumber,Safety protocols,2.0
+Solapur,Plumber,Tool handling,2.0
+Chhatrapati Sambhajinagar,Food & Beverage Service Staff,Customer handling,2.0
+Satara,Baker,Creativity,2.0
+Mumbai Suburban,Tailor / Fashion Designer,Stitching,2.0
+Nagpur,Tailor / Fashion Designer,Creativity,2.0
+Pune,Plumber,Safety protocols,2.0
+Dhule,Beautician,Styling technique,2.0
+Mumbai City,Baker,Recipe following,2.0
+Mumbai Suburban,Baker,Creativity,2.0
+Sangli,Plumber,Tool handling,2.0
+Nanded,Baker,Recipe following,2.0
+Sangli,Plumber,Safety protocols,2.0
+Beed,Beautician,Customer handling,2.0
+Dhule,Plumber,Tool handling,2.0
+Mumbai City,Baker,Creativity,2.0
+Nanded,Baker,Creativity,2.0
+Jalgaon,Nursing Assistant,Patient care basics,2.0
+Kolhapur,Nursing Assistant,Communication,2.0
+Dhule,Electrical Wireman,Tool handling,2.0
+Pune,Baker,Hygiene practices,2.0
+Kolhapur,Baker,Creativity,2.0
+Mumbai Suburban,Baker,Recipe following,2.0
+Mumbai City,Baker,Time management,2.0
+Yavatmal,Plumber,Tool handling,2.0
+Chhatrapati Sambhajinagar,Solar Panel Installer,Tool handling,2.0
+Chhatrapati Sambhajinagar,Electrical Wireman,Circuit testing,2.0
+Mumbai City,Nursing Assistant,Communication,2.0
+Latur,Retail Sales Associate,Communication,2.0
+Amravati,Baker,Recipe following,2.0
+Jalgaon,Plumber,Safety protocols,2.0
+Chhatrapati Sambhajinagar,Food & Beverage Service Staff,Teamwork,2.0
+Kolhapur,Beautician,Customer handling,2.0
+Sangli,Solar Panel Installer,Tool handling,2.0
+Jalgaon,Nursing Assistant,Empathy,2.0
+Kolhapur,Food & Beverage Service Staff,Communication,2.0
+Thane,Beautician,Product knowledge,2.0
+Beed,Beautician,Product knowledge,2.0
+Yavatmal,Beautician,Product knowledge,2.0
+Yavatmal,Beautician,Hygiene practices,2.0
+Chhatrapati Sambhajinagar,Baker,Recipe following,1.0
+Amravati,Plumber,Pipefitting,1.0
+Beed,Baker,Creativity,1.0
+Satara,Baker,Recipe following,1.0
+Beed,Baker,Time management,1.0
+Mumbai Suburban,Beautician,Customer handling,1.0
+Amravati,Beautician,Hygiene practices,1.0
+Amravati,Beautician,Product knowledge,1.0
+Mumbai Suburban,Baker,Time management,1.0
+Amravati,Baker,Creativity,1.0
+Mumbai Suburban,Baker,Hygiene practices,1.0
+Amravati,Baker,Hygiene practices,1.0
+Nanded,Baker,Hygiene practices,1.0
+Nanded,Baker,Time management,1.0
+Amravati,Beautician,Styling technique,1.0
+Amravati,Beautician,Customer handling,1.0
+Amravati,Plumber,Measurement,1.0
+Akola,Plumber,Safety protocols,1.0

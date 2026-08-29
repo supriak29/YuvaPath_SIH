@@ -1,0 +1,14 @@
+feature,status
+district,Currently available
+course_trade,Currently available
+training_provider,Currently available
+gender,Currently available
+age,Currently available
+completed_training,Currently available
+attendance_percentage,Required
+assessment_score,Required
+skill_match,Required
+certification_status,Required
+previous_employment_status,Required
+desired_job_roles,Required
+existing_skills,Required
